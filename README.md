@@ -13,12 +13,12 @@ AI-102: Azure AI Engineer Associate is designed for developers and AI engineers 
 
 The [AI-102 exam measures proficiency across six domains](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102#skills-at-a-glance) with the following weightings:
 
-- Plan and manage an Azure AI solution (20–25%)
-- Implement generative AI solutions (15–20%)
-- Implement an agentic solution (5–10%)
-- Implement computer vision solutions (10–15%)
-- Implement natural language processing solutions (15–20%)
-- Implement knowledge mining and information extraction solutions (15–20%)
+- [Plan and manage an Azure AI solution](./plan-and-manage-an-azure-ai-solution.md) **(20–25%)**
+- [Implement generative AI solutions](./implement-generative-ai-solutions.md) **(15–20%)**
+- [Implement an agentic solution](./implement-an-agentic-solution.md) **(5–10%)**
+- [Implement computer vision solutions](./implement-computer-vision-solutions.md) **(10–15%)**
+- [Implement natural language processing solutions](./implement-natural-language-processing-solutions.md) **(15–20%)**
+- [Implement knowledge mining and information extraction solutions](./implement-knowledge-mining-and-information-extraction-solutions.md) **(15–20%)**
 
 ## 📚 Study Materials
 
@@ -32,7 +32,7 @@ Import the provided Anki deck (`/flashcards/AI-102.apkg`) for spaced-repetition 
 
 ## 📝 Practice Questions
 
-Solidify your understanding with both official and community-sourced quizzes:
+Solidify your understanding with the official quiz:
 
 - **Microsoft Learn Practice Assessment**: [Official exam-style questions on the Learn platform](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/practice/assessment?assessment-type=practice&assessmentId=61&practice-assessment-type=certification)
 
