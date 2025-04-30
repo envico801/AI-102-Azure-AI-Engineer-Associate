@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../images/plan-and-manage-an-azure-ai-solution.png" alt="" height="150" />
+  <img src="../images/plan-and-manage-an-azure-ai-solution.png" alt="Plan And Manage Icon" height="150" />
 </div>
 
 # Plan and manage an Azure AI solution (20–25%)
