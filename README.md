@@ -21,6 +21,25 @@ The [AI-102 exam measures proficiency across six domains](https://learn.microsof
 - [Implement natural language processing solutions](./implement-natural-language-processing-solutions/README.md) **(15–20%)**
 - [Implement knowledge mining and information extraction solutions](./implement-knowledge-mining-and-information-extraction-solutions/README.md) **(15–20%)**
 
+## 💡 Exam Insights & Preparation Tips
+
+- **Pacing:** The exam allows ample time (1 hour 40 minutes). Don't rush; take your time to read and understand each question thoroughly. The questions are generally concise.
+
+* **Logical Thinking:** Questions often involve selecting the right sequence of actions or combining multiple Azure AI services to solve a problem. Think logically about how services would naturally work together – Microsoft designs these for practical use, not to trick you.
+  - **Example:** If a question asks how to process images of book pages to make their text available in multiple languages, you'd logically think:
+    1. First, I need to extract the text from the images. The `Read API (Azure AI Vision)` is suitable for extracting large amounts of printed text.
+    1. Next, I need to translate that extracted text. The `Azure AI Translator` service is designed for this.
+
+- **No Live Coding Lab:** You won't be required to write code from scratch in a lab environment during the exam.
+- **Code Comprehension is Key:** The exam *will* present code snippets (you choose C# or Python at the start). You'll need to understand what the code does, identify correct functions/endpoints to call, or select appropriate code blocks.
+- **Hands-on Labs are Crucial:** While not *in* the exam, completing the hands-on labs associated with the Microsoft Learn modules (like those in the [AI-102T00 Course](https://learn.microsoft.com/en-us/training/courses/ai-102t00)) is highly recommended. This practice provides the necessary experience to handle the code-related questions effectively.
+- **Core Knowledge:**
+  - Understand the purpose and capabilities of each Azure AI service covered in the objectives.
+  - Be familiar with common REST API concepts (endpoints, methods like GET/POST, JSON request/response).
+  - Know how to use the Azure SDKs (at least conceptually for your chosen language).
+  - Understand endpoint naming structures (e.g., `*.cognitiveservices.azure.com`).
+- **Utilize Official Resources:** Thoroughly review the detailed Study Guide ([Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102#skills-measured-as-of-april-30-2025)). These are the foundation for passing.
+
 ## 📚 Core Study Resources
 
 These resources provide a broad overview and foundational learning:
