@@ -38,6 +38,8 @@ The [AI-102 exam measures proficiency across six domains](https://learn.microsof
   - Be familiar with common REST API concepts (endpoints, methods like GET/POST, JSON request/response).
   - Know how to use the Azure SDKs (at least conceptually for your chosen language).
   - Understand endpoint naming structures (e.g., `*.cognitiveservices.azure.com`).
+  - Be familiar with [Responsible AI principles](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/6-responsible-ai).
+  - Basic DevOps concepts (Source Control/Git, CI/CD pipelines)
 - **Utilize Official Resources:** Thoroughly review the detailed Study Guide ([Skills Measured](https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102#skills-measured-as-of-april-30-2025)). These are the foundation for passing.
 
 ## 📚 Core Study Resources
