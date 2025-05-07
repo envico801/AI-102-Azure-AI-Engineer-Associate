@@ -1,3 +1,5 @@
+# Create and consume Azure AI services
+
 ## 1. [Introduction](https://learn.microsoft.com/en-us/training/modules/create-manage-ai-services/1-introduction)
 
 *   **Simple Idea:** Azure AI services are like a collection of pre-built smart tools in the cloud. You don't get just one big "AI thing"; you get individual services for different tasks (like seeing, speaking, understanding language, finding things, or even generating new content).
