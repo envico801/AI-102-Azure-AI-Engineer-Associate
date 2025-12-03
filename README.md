@@ -58,6 +58,8 @@ These resources provide a broad overview and foundational learning:
 
 Import the provided Anki deck (`/anki/AI-102.apkg`) for spaced-repetition of key terms, definitions, and code snippets.
 
+[Download Anki Deck (.apkg)](https://github.com/envico801/AI-102-Azure-AI-Engineer-Associate/blob/main/anki/Programming__Cloud__Azure__MAAEA%20-%20Azure%20ai%20engineer%20associate%20-%20microsoft%20learn.apkg?raw=true)
+
 ## 📝 Practice Questions
 
 Test your knowledge with official practice assessments:
