@@ -309,6 +309,8 @@ Q:: =============================================
 ###### ID1
 
 A:: =============================================  
+___
+
 Foundry Tools
 
 Source: [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
@@ -326,6 +328,8 @@ Q:: =============================================
 ###### ID2
 
 A:: =============================================  
+___
+
 Microsoft Foundry project.
 
 Source: [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
@@ -343,6 +347,8 @@ Q:: =============================================
 ###### ID3
 
 A:: =============================================  
+___
+
 Microsoft Foundry SDK
 
 Source: [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
@@ -362,6 +368,8 @@ Q:: =============================================
 ###### ID4
 
 A:: =============================================  
+___
+
 Chat playground
 
 Source: [Choose and deploy models from the model catalog in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/)
@@ -379,6 +387,8 @@ Q:: =============================================
 ###### ID5
 
 A:: =============================================  
+___
+
 System message
 
 Source: [Choose and deploy models from the model catalog in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/)
@@ -396,6 +406,8 @@ Q:: =============================================
 ###### ID6
 
 A:: =============================================  
+___
+
 Standard deployment
 
 Source: [Choose and deploy models from the model catalog in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/)
@@ -415,6 +427,8 @@ Q:: =============================================
 ###### ID7
 
 A:: =============================================  
+___
+
 AIProjectClient
 
 Source: [Develop an AI app with the Microsoft Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
@@ -432,6 +446,8 @@ Q:: =============================================
 ###### ID8
 
 A:: =============================================  
+___
+
 The project endpoint.
 
 Source: [Develop an AI app with the Microsoft Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
@@ -449,6 +465,8 @@ Q:: =============================================
 ###### ID9
 
 A:: =============================================  
+___
+
 Azure OpenAI
 
 Source: [Develop an AI app with the Microsoft Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
@@ -468,6 +486,8 @@ Q:: =============================================
 ###### ID10
 
 A:: =============================================  
+___
+
 Connections
 
 Source: [Get started with prompt flow to develop language model apps in the Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/get-started-prompt-flow-ai-studio/)
@@ -485,6 +505,8 @@ Q:: =============================================
 ###### ID11
 
 A:: =============================================  
+___
+
 Deploy your flow to an endpoint.
 
 Source: [Get started with prompt flow to develop language model apps in the Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/get-started-prompt-flow-ai-studio/)
@@ -502,6 +524,8 @@ Q:: =============================================
 ###### ID12
 
 A:: =============================================  
+___
+
 Experimentation
 
 Source: [Get started with prompt flow to develop language model apps in the Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/get-started-prompt-flow-ai-studio/)
@@ -521,6 +545,8 @@ Q:: =============================================
 ###### ID13
 
 A:: =============================================  
+___
+
 Using data to contextualize prompts and ensure relevant responses.
 
 Source: [Develop a RAG-based solution with your own data using Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/)
@@ -538,6 +564,8 @@ Q:: =============================================
 ###### ID14
 
 A:: =============================================  
+___
+
 Retrieval Augmented Generation (RAG).
 
 Source: [Develop a RAG-based solution with your own data using Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/)
@@ -555,6 +583,8 @@ Q:: =============================================
 ###### ID15
 
 A:: =============================================  
+___
+
 Add index connection details to the OpenAI ChatClient configuration.
 
 Source: [Develop a RAG-based solution with your own data using Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/)
@@ -574,6 +604,8 @@ Q:: =============================================
 ###### ID16
 
 A:: =============================================  
+___
+
 JSONL
 
 Source: [Fine-tune a language model with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/finetune-model-copilot-ai-studio/)
@@ -591,6 +623,8 @@ Q:: =============================================
 ###### ID17
 
 A:: =============================================  
+___
+
 How the model needs to act.
 
 Source: [Fine-tune a language model with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/finetune-model-copilot-ai-studio/)
@@ -608,6 +642,8 @@ Q:: =============================================
 ###### ID18
 
 A:: =============================================  
+___
+
 n_epochs
 
 Source: [Fine-tune a language model with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/finetune-model-copilot-ai-studio/)
@@ -627,6 +663,8 @@ Q:: =============================================
 ###### ID19
 
 A:: =============================================  
+___
+
 To document the purpose, expected use, and potential harms for the solution
 
 Source: [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/)
@@ -644,6 +682,8 @@ Q:: =============================================
 ###### ID20
 
 A:: =============================================  
+___
+
 Content filters
 
 Source: [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/)
@@ -661,6 +701,8 @@ Q:: =============================================
 ###### ID21
 
 A:: =============================================  
+___
+
 To enable you to gather feedback and identify issues before releasing the solution more broadly
 
 Source: [Implement a responsible generative AI solution in Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/responsible-ai-studio/)
@@ -680,6 +722,8 @@ Q:: =============================================
 ###### ID22
 
 A:: =============================================  
+___
+
 Manual evaluations
 
 Source: [Evaluate generative AI performance in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/evaluate-models-azure-ai-studio/)
@@ -697,6 +741,8 @@ Q:: =============================================
 ###### ID23
 
 A:: =============================================  
+___
+
 F1 Score
 
 Source: [Evaluate generative AI performance in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/evaluate-models-azure-ai-studio/)
@@ -714,6 +760,8 @@ Q:: =============================================
 ###### ID24
 
 A:: =============================================  
+___
+
 Coherence
 
 Source: [Evaluate generative AI performance in Microsoft Foundry portal](https://learn.microsoft.com/en-us/training/modules/evaluate-models-azure-ai-studio/)
@@ -735,6 +783,8 @@ Q:: =============================================
 ###### ID25
 
 A:: =============================================  
+___
+
 A software service that uses AI to assist users with information and task automation.
 
 Source: [Get started with AI agent development on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
@@ -752,6 +802,8 @@ Q:: =============================================
 ###### ID26
 
 A:: =============================================  
+___
+
 Microsoft Foundry Agent Service
 
 Source: [Get started with AI agent development on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
@@ -769,6 +821,8 @@ Q:: =============================================
 ###### ID27
 
 A:: =============================================  
+___
+
 Knowledge
 
 Source: [Get started with AI agent development on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
@@ -788,6 +842,8 @@ Q:: =============================================
 ###### ID28
 
 A:: =============================================  
+___
+
 Create A Microsoft Foundry project
 
 Source: [Develop an AI agent with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
@@ -805,6 +861,8 @@ Q:: =============================================
 ###### ID29
 
 A:: =============================================  
+___
+
 Instructions
 
 Source: [Develop an AI agent with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
@@ -822,6 +880,8 @@ Q:: =============================================
 ###### ID30
 
 A:: =============================================  
+___
+
 Code Interpreter
 
 Source: [Develop an AI agent with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
@@ -841,6 +901,8 @@ Q:: =============================================
 ###### ID31
 
 A:: =============================================  
+___
+
 The YAML file and the Designer view
 
 Source: [Develop AI agents with the Microsoft Foundry extension in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/develop-ai-agents-vs-code/)
@@ -858,6 +920,8 @@ Q:: =============================================
 ###### ID32
 
 A:: =============================================  
+___
+
 They provide reusable components that work across different agents
 
 Source: [Develop AI agents with the Microsoft Foundry extension in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/develop-ai-agents-vs-code/)
@@ -875,6 +939,8 @@ Q:: =============================================
 ###### ID33
 
 A:: =============================================  
+___
+
 The system creates individual threads for each conversation to manage context and message history
 
 Source: [Develop AI agents with the Microsoft Foundry extension in Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/develop-ai-agents-vs-code/)
@@ -894,6 +960,8 @@ Q:: =============================================
 ###### ID34
 
 A:: =============================================  
+___
+
 Callable functions that an agent can use to extend its capabilities.
 
 Source: [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
@@ -911,6 +979,8 @@ Q:: =============================================
 ###### ID35
 
 A:: =============================================  
+___
+
 Add the web service as an OpenAPI specification tool to the agent definition
 
 Source: [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
@@ -928,6 +998,8 @@ Q:: =============================================
 ###### ID36
 
 A:: =============================================  
+___
+
 Function calling
 
 Source: [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
@@ -947,6 +1019,8 @@ Q:: =============================================
 ###### ID37
 
 A:: =============================================  
+___
+
 To coordinate user input and route tasks to the appropriate connected agents
 
 Source: [Develop a multi-agent solution with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry/)
@@ -964,6 +1038,8 @@ Q:: =============================================
 ###### ID38
 
 A:: =============================================  
+___
+
 Add the agent as a ConnectedAgentTool to the main agent's tool definition.
 
 Source: [Develop a multi-agent solution with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry/)
@@ -981,6 +1057,8 @@ Q:: =============================================
 ###### ID39
 
 A:: =============================================  
+___
+
 It uses prompt instructions and natural language understanding.
 
 Source: [Develop a multi-agent solution with Microsoft Foundry Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-multi-agent-azure-ai-foundry/)
@@ -1000,6 +1078,8 @@ Q:: =============================================
 ###### ID40
 
 A:: =============================================  
+___
+
 Hosts tool definitions and makes them available for discovery by the client.
 
 Source: [Integrate MCP Tools with Azure AI Agents](https://learn.microsoft.com/en-us/training/modules/connect-agent-to-mcp-tools/)
@@ -1017,6 +1097,8 @@ Q:: =============================================
 ###### ID41
 
 A:: =============================================  
+___
+
 By calling session.list_tools() to get the current tool catalog.
 
 Source: [Integrate MCP Tools with Azure AI Agents](https://learn.microsoft.com/en-us/training/modules/connect-agent-to-mcp-tools/)
@@ -1034,6 +1116,8 @@ Q:: =============================================
 ###### ID42
 
 A:: =============================================  
+___
+
 To enable asynchronous invocation so the agent can call tools without blocking.
 
 Source: [Integrate MCP Tools with Azure AI Agents](https://learn.microsoft.com/en-us/training/modules/connect-agent-to-mcp-tools/)
@@ -1053,6 +1137,8 @@ Q:: =============================================
 ###### ID43
 
 A:: =============================================  
+___
+
 Create an AzureAIAgentClient, define a ChatAgent with instructions and tools, and create an AgentThread for conversations.
 
 Source: [Develop an AI agent with Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/)
@@ -1070,6 +1156,8 @@ Q:: =============================================
 ###### ID44
 
 A:: =============================================  
+___
+
 AgentThread
 
 Source: [Develop an AI agent with Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/)
@@ -1087,6 +1175,8 @@ Q:: =============================================
 ###### ID45
 
 A:: =============================================  
+___
+
 Create Python functions with proper type annotations and descriptions, then pass them to the ChatAgent's tools parameter.
 
 Source: [Develop an AI agent with Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-with-semantic-kernel/)
@@ -1106,6 +1196,8 @@ Q:: =============================================
 ###### ID46
 
 A:: =============================================  
+___
+
 Define your agents and describe their capabilities
 
 Source: [Orchestrate a multi-agent solution using the Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
@@ -1123,6 +1215,8 @@ Q:: =============================================
 ###### ID47
 
 A:: =============================================  
+___
+
 Group Chat
 
 Source: [Orchestrate a multi-agent solution using the Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
@@ -1140,6 +1234,8 @@ Q:: =============================================
 ###### ID48
 
 A:: =============================================  
+___
+
 Handoff
 
 Source: [Orchestrate a multi-agent solution using the Microsoft Agent Framework](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
@@ -1159,6 +1255,8 @@ Q:: =============================================
 ###### ID49
 
 A:: =============================================  
+___
+
 It routes requests between clients and connected agents.
 
 Source: [Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/)
@@ -1176,6 +1274,8 @@ Q:: =============================================
 ###### ID50
 
 A:: =============================================  
+___
+
 Processes incoming requests and generates responses or events.
 
 Source: [Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/)
@@ -1193,6 +1293,8 @@ Q:: =============================================
 ###### ID51
 
 A:: =============================================  
+___
+
 It provides metadata about the agent, such as its capabilities and available functions.
 
 Source: [Discover Azure AI Agents with A2A](https://learn.microsoft.com/en-us/training/modules/discover-agents-with-a2a/)
@@ -1214,6 +1316,8 @@ Q:: =============================================
 ###### ID52
 
 A:: =============================================  
+___
+
 Use the Azure Language service to perform sentiment analysis of the comments.
 
 Source: [Analyze text with Azure Language](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/)
@@ -1231,6 +1335,8 @@ Q:: =============================================
 ###### ID53
 
 A:: =============================================  
+___
+
 Use the Azure Language service to extract linked entities.
 
 Source: [Analyze text with Azure Language](https://learn.microsoft.com/en-us/training/modules/analyze-text-ai-language/)
@@ -1250,6 +1356,8 @@ Q:: =============================================
 ###### ID54
 
 A:: =============================================  
+___
+
 Create a new knowledge base, importing the existing FAQ document.
 
 Source: [Create question answering solutions with Azure Language](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/)
@@ -1267,6 +1375,8 @@ Q:: =============================================
 ###### ID55
 
 A:: =============================================  
+___
+
 Add a follow-up prompt to the question.
 
 Source: [Create question answering solutions with Azure Language](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/)
@@ -1284,6 +1394,8 @@ Q:: =============================================
 ###### ID56
 
 A:: =============================================  
+___
+
 Create a bot based on your knowledge base and configure an email channel.
 
 Source: [Create question answering solutions with Azure Language](https://learn.microsoft.com/en-us/training/modules/create-question-answer-solution-ai-language/)
@@ -1303,6 +1415,8 @@ Q:: =============================================
 ###### ID57
 
 A:: =============================================  
+___
+
 Utterances.
 
 Source: [Build a conversational language understanding model](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/)
@@ -1320,6 +1434,8 @@ Q:: =============================================
 ###### ID58
 
 A:: =============================================  
+___
+
 As an entity.
 
 Source: [Build a conversational language understanding model](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/)
@@ -1337,6 +1453,8 @@ Q:: =============================================
 ###### ID59
 
 A:: =============================================  
+___
+
 Use prebuilt entity components.
 
 Source: [Build a conversational language understanding model](https://learn.microsoft.com/en-us/training/modules/build-language-understanding-model/)
@@ -1356,6 +1474,8 @@ Q:: =============================================
 ###### ID60
 
 A:: =============================================  
+___
+
 A multiple label classification project
 
 Source: [Create custom text classification solutions](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/)
@@ -1373,6 +1493,8 @@ Q:: =============================================
 ###### ID61
 
 A:: =============================================  
+___
+
 View your model details
 
 Source: [Create custom text classification solutions](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/)
@@ -1390,6 +1512,8 @@ Q:: =============================================
 ###### ID62
 
 A:: =============================================  
+___
+
 Call the URL provided in the header of the request response.
 
 Source: [Create custom text classification solutions](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/)
@@ -1409,6 +1533,8 @@ Q:: =============================================
 ###### ID63
 
 A:: =============================================  
+___
+
 Recall
 
 Source: [Custom named entity recognition](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/)
@@ -1426,6 +1552,8 @@ Q:: =============================================
 ###### ID64
 
 A:: =============================================  
+___
+
 JSON file, in my storage account container for the project
 
 Source: [Custom named entity recognition](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/)
@@ -1443,6 +1571,8 @@ Q:: =============================================
 ###### ID65
 
 A:: =============================================  
+___
+
 Diversity
 
 Source: [Custom named entity recognition](https://learn.microsoft.com/en-us/training/modules/custom-name-entity-recognition/)
@@ -1462,6 +1592,8 @@ Q:: =============================================
 ###### ID66
 
 A:: =============================================  
+___
+
 Source: [Translate text with Azure Translator service](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -1477,6 +1609,8 @@ Q:: =============================================
 ###### ID67
 
 A:: =============================================  
+___
+
 Source: [Translate text with Azure Translator service](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/)
 
 #### Chapter 7 - Create speech-enabled apps with Microsoft Foundry
@@ -1494,6 +1628,8 @@ Q:: =============================================
 ###### ID68
 
 A:: =============================================  
+___
+
 The location and one of the keys
 
 Source: [Create speech-enabled apps with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/)
@@ -1511,6 +1647,8 @@ Q:: =============================================
 ###### ID69
 
 A:: =============================================  
+___
+
 AudioConfig
 
 Source: [Create speech-enabled apps with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/)
@@ -1528,6 +1666,8 @@ Q:: =============================================
 ###### ID70
 
 A:: =============================================  
+___
+
 Set the SpeechSynthesisVoiceName property of the SpeechConfig object to the desired voice name.
 
 Source: [Create speech-enabled apps with Microsoft Foundry](https://learn.microsoft.com/en-us/training/modules/create-speech-enabled-apps/)
@@ -1547,6 +1687,8 @@ Q:: =============================================
 ###### ID71
 
 A:: =============================================  
+___
+
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
 Q:: =============================================  
@@ -1562,6 +1704,8 @@ Q:: =============================================
 ###### ID72
 
 A:: =============================================  
+___
+
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
 Q:: =============================================  
@@ -1577,6 +1721,8 @@ Q:: =============================================
 ###### ID73
 
 A:: =============================================  
+___
+
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
 #### Chapter 9 - Develop an audio-enabled generative AI application
@@ -1594,6 +1740,8 @@ Q:: =============================================
 ###### ID74
 
 A:: =============================================  
+___
+
 Multimodal models
 
 Source: [Develop an audio-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-audio-apps/)
@@ -1611,6 +1759,8 @@ Q:: =============================================
 ###### ID75
 
 A:: =============================================  
+___
+
 Submit a prompt that contains a multi-part user message, containing both text content and audio content.
 
 Source: [Develop an audio-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-audio-apps/)
@@ -1628,6 +1778,8 @@ Q:: =============================================
 ###### ID76
 
 A:: =============================================  
+___
+
 As a URL or as binary data
 
 Source: [Develop an audio-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-audio-apps/)
@@ -1647,6 +1799,8 @@ Q:: =============================================
 ###### ID77
 
 A:: =============================================  
+___
+
 Microsoft Entra (keyless) and API key
 
 Source: [Develop an Azure AI Voice Live agent](https://learn.microsoft.com/en-us/training/modules/develop-voice-live-agent/)
@@ -1664,6 +1818,8 @@ Q:: =============================================
 ###### ID78
 
 A:: =============================================  
+___
+
 https://cognitiveservices.azure.com/.default
 
 Source: [Develop an Azure AI Voice Live agent](https://learn.microsoft.com/en-us/training/modules/develop-voice-live-agent/)
@@ -1681,6 +1837,8 @@ Q:: =============================================
 ###### ID79
 
 A:: =============================================  
+___
+
 WebRTC
 
 Source: [Develop an Azure AI Voice Live agent](https://learn.microsoft.com/en-us/training/modules/develop-voice-live-agent/)
@@ -1698,6 +1856,8 @@ Q:: =============================================
 ###### ID80
 
 A:: =============================================  
+___
+
 ServerEventType.INPUT_AUDIO_BUFFER_SPEECH_STARTED
 
 Source: [Develop an Azure AI Voice Live agent](https://learn.microsoft.com/en-us/training/modules/develop-voice-live-agent/)
@@ -1715,6 +1875,8 @@ Q:: =============================================
 ###### ID81
 
 A:: =============================================  
+___
+
 Microsoft Entra authentication with DefaultAzureCredential
 
 Source: [Develop an Azure AI Voice Live agent](https://learn.microsoft.com/en-us/training/modules/develop-voice-live-agent/)
@@ -1736,6 +1898,8 @@ Q:: =============================================
 ###### ID82
 
 A:: =============================================  
+___
+
 To extract information about visual features in images
 
 Source: [Analyze images](https://learn.microsoft.com/en-us/training/modules/analyze-images/)
@@ -1753,6 +1917,8 @@ Q:: =============================================
 ###### ID83
 
 A:: =============================================  
+___
+
 DenseCaptions
 
 Source: [Analyze images](https://learn.microsoft.com/en-us/training/modules/analyze-images/)
@@ -1772,6 +1938,8 @@ Q:: =============================================
 ###### ID84
 
 A:: =============================================  
+___
+
 Azure Vision Image Analysis
 
 Source: [Read text in images](https://learn.microsoft.com/en-us/training/modules/read-text-images-documents-with-computer-vision-service/)
@@ -1789,6 +1957,8 @@ Q:: =============================================
 ###### ID85
 
 A:: =============================================  
+___
+
 VisualFeatures.Read
 
 Source: [Read text in images](https://learn.microsoft.com/en-us/training/modules/read-text-images-documents-with-computer-vision-service/)
@@ -1806,6 +1976,8 @@ Q:: =============================================
 ###### ID86
 
 A:: =============================================  
+___
+
 A block containing the location of lines of text as well as individual words.
 
 Source: [Read text in images](https://learn.microsoft.com/en-us/training/modules/read-text-images-documents-with-computer-vision-service/)
@@ -1825,6 +1997,8 @@ Q:: =============================================
 ###### ID87
 
 A:: =============================================  
+___
+
 Azure Vision Face.
 
 Source: [Detect, analyze, and recognize faces](https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/)
@@ -1842,6 +2016,8 @@ Q:: =============================================
 ###### ID88
 
 A:: =============================================  
+___
+
 Landmarks
 
 Source: [Detect, analyze, and recognize faces](https://learn.microsoft.com/en-us/training/modules/detect-analyze-recognize-faces/)
@@ -1861,6 +2037,8 @@ Q:: =============================================
 ###### ID89
 
 A:: =============================================  
+___
+
 A Custom Vision resource for training, and another for prediction
 
 Source: [Classify images](https://learn.microsoft.com/en-us/training/modules/classify-images/)
@@ -1878,6 +2056,8 @@ Q:: =============================================
 ###### ID90
 
 A:: =============================================  
+___
+
 Image classification (multiclass)
 
 Source: [Classify images](https://learn.microsoft.com/en-us/training/modules/classify-images/)
@@ -1895,6 +2075,8 @@ Q:: =============================================
 ###### ID91
 
 A:: =============================================  
+___
+
 The endpoint and key for the Custom Vision prediction resource, the project  for your image classification project, and the name of your deployed model
 
 Source: [Classify images](https://learn.microsoft.com/en-us/training/modules/classify-images/)
@@ -1914,6 +2096,8 @@ Q:: =============================================
 ###### ID92
 
 A:: =============================================  
+___
+
 The location and class of specific classes of object in an image.
 
 Source: [Detect objects in images](https://learn.microsoft.com/en-us/training/modules/detect-objects-images/)
@@ -1931,6 +2115,8 @@ Q:: =============================================
 ###### ID93
 
 A:: =============================================  
+___
+
 Tag some images with objects of each class and train an initial object detection model.
 
 Source: [Detect objects in images](https://learn.microsoft.com/en-us/training/modules/detect-objects-images/)
@@ -1950,6 +2136,8 @@ Q:: =============================================
 ###### ID94
 
 A:: =============================================  
+___
+
 Upload the video to Azure Video Indexer and index it.
 
 Source: [Analyze video](https://learn.microsoft.com/en-us/training/modules/analyze-video/)
@@ -1967,6 +2155,8 @@ Q:: =============================================
 ###### ID95
 
 A:: =============================================  
+___
+
 Edit the Brands model to show brands suggested by Bing, and add any new brands you want to detect.
 
 Source: [Analyze video](https://learn.microsoft.com/en-us/training/modules/analyze-video/)
@@ -1986,6 +2176,8 @@ Q:: =============================================
 ###### ID96
 
 A:: =============================================  
+___
+
 Multimodal models
 
 Source: [Develop a vision-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-apps/)
@@ -2003,6 +2195,8 @@ Q:: =============================================
 ###### ID97
 
 A:: =============================================  
+___
+
 Submit a prompt that contains a multi-part user message, containing both text content and image content.
 
 Source: [Develop a vision-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-apps/)
@@ -2020,6 +2214,8 @@ Q:: =============================================
 ###### ID98
 
 A:: =============================================  
+___
+
 As a URL or as binary data
 
 Source: [Develop a vision-enabled generative AI application](https://learn.microsoft.com/en-us/training/modules/develop-generative-ai-vision-apps/)
@@ -2039,6 +2235,8 @@ Q:: =============================================
 ###### ID99
 
 A:: =============================================  
+___
+
 DALL-E
 
 Source: [Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
@@ -2056,6 +2254,8 @@ Q:: =============================================
 ###### ID100
 
 A:: =============================================  
+___
+
 Images
 
 Source: [Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
@@ -2073,6 +2273,8 @@ Q:: =============================================
 ###### ID101
 
 A:: =============================================  
+___
+
 The number of images to be generated
 
 Source: [Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/)
@@ -2094,6 +2296,8 @@ Q:: =============================================
 ###### ID102
 
 A:: =============================================  
+___
+
 Analyzers that extract information from documents, images, videos, and audio files.
 
 Source: [Create a multimodal analysis solution with Azure Content Understanding](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai/)
@@ -2111,6 +2315,8 @@ Q:: =============================================
 ###### ID103
 
 A:: =============================================  
+___
+
 Microsoft Foundry portal.
 
 Source: [Create a multimodal analysis solution with Azure Content Understanding](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai/)
@@ -2128,6 +2334,8 @@ Q:: =============================================
 ###### ID104
 
 A:: =============================================  
+___
+
 A schema.
 
 Source: [Create a multimodal analysis solution with Azure Content Understanding](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai/)
@@ -2147,6 +2355,8 @@ Q:: =============================================
 ###### ID105
 
 A:: =============================================  
+___
+
 The endpoint and key for the Azure AI service.
 
 Source: [Create an Azure Content Understanding client application](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai-api/)
@@ -2164,6 +2374,8 @@ Q:: =============================================
 ###### ID106
 
 A:: =============================================  
+___
+
 The name of the analyzer.
 
 Source: [Create an Azure Content Understanding client application](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai-api/)
@@ -2181,6 +2393,8 @@ Q:: =============================================
 ###### ID107
 
 A:: =============================================  
+___
+
 As type-specific values.
 
 Source: [Create an Azure Content Understanding client application](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai-api/)
@@ -2200,6 +2414,8 @@ Q:: =============================================
 ###### ID108
 
 A:: =============================================  
+___
+
 General document model.
 
 Source: [Use prebuilt Document intelligence models](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/)
@@ -2217,6 +2433,8 @@ Q:: =============================================
 ###### ID109
 
 A:: =============================================  
+___
+
 Selection marks.
 
 Source: [Use prebuilt Document intelligence models](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/)
@@ -2234,6 +2452,8 @@ Q:: =============================================
 ###### ID110
 
 A:: =============================================  
+___
+
 Convert the document to PDF format.
 
 Source: [Use prebuilt Document intelligence models](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/)
@@ -2253,6 +2473,8 @@ Q:: =============================================
 ###### ID111
 
 A:: =============================================  
+___
+
 Analyze Invoice and Get Analyze Invoice Result
 
 Source: [Extract data from forms with Azure Document intelligence](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/)
@@ -2270,6 +2492,8 @@ Q:: =============================================
 ###### ID112
 
 A:: =============================================  
+___
+
 Use Azure Document Intelligence's prebuilt receipts model
 
 Source: [Extract data from forms with Azure Document intelligence](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/)
@@ -2287,6 +2511,8 @@ Q:: =============================================
 ###### ID113
 
 A:: =============================================  
+___
+
 Along with the form to analyze, JSON files need to be provided.
 
 Source: [Extract data from forms with Azure Document intelligence](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/)
@@ -2306,6 +2532,8 @@ Q:: =============================================
 ###### ID114
 
 A:: =============================================  
+___
+
 Indexer
 
 Source: [Create a knowledge mining solution with Azure AI Search](https://learn.microsoft.com/en-us/training/modules/ai-knowldge-mining/)
@@ -2323,6 +2551,8 @@ Q:: =============================================
 ###### ID115
 
 A:: =============================================  
+___
+
 Foundry Tools
 
 Source: [Create a knowledge mining solution with Azure AI Search](https://learn.microsoft.com/en-us/training/modules/ai-knowldge-mining/)
@@ -2340,6 +2570,8 @@ Q:: =============================================
 ###### ID116
 
 A:: =============================================  
+___
+
 Table
 
 Source: [Create a knowledge mining solution with Azure AI Search](https://learn.microsoft.com/en-us/training/modules/ai-knowldge-mining/)
@@ -2368,6 +2600,8 @@ Select only one answer.
 ###### ID117
 
 A:: =============================================  
+___
+
 1. the visible text in the image and a description of the image content
 
 The features used in the call are `read` and `description`, which will return the visible text in the image, as well as a description of the image content.
@@ -2394,6 +2628,8 @@ Select only one answer.
 ###### ID118
 
 A:: =============================================  
+___
+
 1. teal
 
 Only a certain set of colors can be returned by the API. The set of possible returned colors is black, blue, brown, gray, green, orange, pink, purple, red, teal, white, and yellow.
@@ -2418,6 +2654,8 @@ Select only one answer.
 ###### ID119
 
 A:: =============================================  
+___
+
 1. optical character recognition (OCR)
 
 OCR is the only visual feature that can extract text from images.
@@ -2443,6 +2681,8 @@ Select only one answer.
 ###### ID120
 
 A:: =============================================  
+___
+
 1. Use Azure Custom Vision to train an object detection model.
 
 Using Azure Custom Vision to train an object detection model is the optimal choice because it meets the requirements for identifying and locating animals in wildlife images. Building a CNN model by using Azure Machine Learning is resource-intensive and unnecessary given the availability of Azure Custom Vision. Training a classification model by using Azure Custom Vision does not provide localization information, which is essential for this task. Using the prebuilt image tagging model in Azure AI Vision lacks customization and localization capabilities, making it unsuitable for this scenario.\
@@ -2469,6 +2709,8 @@ Select all answers that apply.
 ###### ID121
 
 A:: =============================================  
+___
+
 1. Select the 'Food' domain.
 
 2. Use consistent tags to label images.
@@ -2494,6 +2736,8 @@ Select only one answer.
 ###### ID122
 
 A:: =============================================  
+___
+
 1. custom brands
 
 The Custom Brands model supports brand detection from speech and visuals.
@@ -2522,6 +2766,8 @@ Select all answers that apply.
 ###### ID123
 
 A:: =============================================  
+___
+
 1. Include multiple examples of spoken sentences.
 
 2. Provide multiple adaptation options.
@@ -2553,6 +2799,8 @@ Select only one answer.
 ###### ID124
 
 A:: =============================================  
+___
+
 1. `multi-language detection `
 
 When indexing or reindexing a video by using the API, choose the multi-language detection option for the `sourceLanguage` parameter. The remaining options do not configure the API calls to enable multilingual identification.
@@ -2577,6 +2825,8 @@ Select only one answer.
 ###### ID125
 
 A:: =============================================  
+___
+
 1. files
 
 Tables are used for data that is best represented as rows and columns, or whenever you need granular representations of your data.
@@ -2604,6 +2854,8 @@ Select only one answer.
 ###### ID126
 
 A:: =============================================  
+___
+
 1. document cracking
 
 Document cracking is the process of opening files and extracting content. It is the first stage of the indexing process.
@@ -2630,6 +2882,8 @@ Select only one answer.
 ###### ID127
 
 A:: =============================================  
+___
+
 1. a knowledge store
 
 A knowledge store is used for downstream apps, such as knowledge mining and data science. A knowledge store is defined within a skillset. Its definition determines whether your enriched documents are projected as tables or objects (files or blobs) in Azure Storage.
@@ -2655,6 +2909,8 @@ Select only one answer.
 ###### ID128
 
 A:: =============================================  
+___
+
 1. Use the Business Card model in Azure AI Document Intelligence.
 
 The Business Card model in Azure AI Document Intelligence is the optimal choice for processing business cards due to its specialized capabilities for extracting structured data such as names, email addresses, and phone numbers. Training a custom model is unnecessary because the Business Card model already meets the requirements. Azure AI Vision OCR lacks the ability to extract structured data, making it unsuitable for this task. The  Document model is designed for identity documents and does not provide the necessary functionality for processing business cards.
@@ -2681,6 +2937,8 @@ Select only one answer.
 ###### ID129
 
 A:: =============================================  
+___
+
 1. Use the Invoice model in Azure AI Document Intelligence.
 
 The Invoice model in Azure AI Document Intelligence is the optimal choice for processing invoices due to its specialized capabilities for extracting structured data, even from poorly scanned documents. Training a custom model is unnecessary because the Invoice model already meets the requirements. Azure AI Vision OCR lacks the ability to extract structured data, making it unsuitable for this task. The Business Card model is designed for business cards and does not provide the necessary functionality for processing invoices.
@@ -2705,6 +2963,8 @@ Select only one answer.
 ###### ID130
 
 A:: =============================================  
+___
+
 1. Custom classification model in Azure AI Document Intelligence
 
 The custom classification model in Azure AI Document Intelligence is the most suitable solution because it is specifically designed to categorize documents into predefined categories, enabling accurate classification and supporting subsequent data extraction. Custom template models are limited to data extraction from structured documents and do not address classification needs. Azure AI Vision OCR focuses solely on text recognition and lacks the functionality required for document categorization. The Invoice model is tailored for invoice processing and does not meet the broader requirements for document classification described in the scenario.
@@ -2733,6 +2993,8 @@ Select all answers that apply.
 ###### ID131
 
 A:: =============================================  
+___
+
 1. Provision an Azure AI Document Intelligence resource.
 
 2. Use the prebuilt invoice model to extract key fields.
@@ -2759,6 +3021,8 @@ Select all answers that apply.
 ###### ID132
 
 A:: =============================================  
+___
+
 1. Integrate the extracted data with an organization's database.
 
 2. Use the prebuilt Invoice model for data extraction.
@@ -2788,6 +3052,8 @@ Select all answers that apply.
 ###### ID133
 
 A:: =============================================  
+___
+
 1. Upload documents to Azure Blob Storage.
 
 2. Use the Layout model.
@@ -2814,6 +3080,8 @@ Select only one answer.
 ###### ID134
 
 A:: =============================================  
+___
+
 1. Azure AI Language.
 
 Azure AI Language is the most appropriate service for this scenario as it specializes in analyzing and deriving insights from natural language text, directly addressing the requirements for text analysis. Azure AI Speech is not suitable because it focuses on audio transformations such as speech-to-text and text-to-speech, which are unrelated to the task. Azure AI Translator is designed for translating text between languages and does not provide the necessary capabilities for analyzing and generating insights from text. Azure AI Vision is focused on image-related tasks and lacks the functionality required for processing natural language text.
@@ -2840,6 +3108,8 @@ Select only one answer.
 ###### ID135
 
 A:: =============================================  
+___
+
 1. Semantic Kernel framework
 
 Azure Bot Framework is commonly used for building conversational bots but does not provide the orchestration features required for multi-agent workflows. Azure Machine Learning Studio is focused on developing machine learning models and does not address the need for orchestration in this scenario. Cognitive Services API offers pre-built AI functionalities but lacks the ability to orchestrate multi-agent workflows. Semantic Kernel framework is the most suitable choice as it supports generative AI orchestration and multi-agent workflows, aligning perfectly with the requirements of the scenario.
@@ -2866,6 +3136,8 @@ Select only one answer.
 ###### ID136
 
 A:: =============================================  
+___
+
 1. Use Azure AI Search with built-in skills.
 
 Azure AI Search is the most suitable solution because it provides the required functionality for accessing and analyzing external documents with built-in skills, which aligns with the scenario's needs. Configuring a custom model in Azure Machine Learning focuses on document analysis but does not address the retrieval aspect, making it unsuitable. Enabling default capabilities in Azure Document Intelligence lacks the specific retrieval functionality needed for the task. Azure AI Vision Service can perform OCR but is not well suited for document processing and lacks the retrieval aspect.
@@ -2890,6 +3162,8 @@ Select only one answer.
 ###### ID137
 
 A:: =============================================  
+___
+
 1. Specify the GPT-35-Turbo deployment name.
 
 To configure the agent to effectively use the GPT-35-Turbo model, specifying the deployment name ensures the agent interacts with the correct model deployed in a Microsoft Azure OpenAI resource. Using the Completion endpoint is not suitable for this model, as the ChatCompletion endpoint is preferred, and these endpoints aren't applicable to agents. Deploying a GPT-4 model does not meet the requirement to use the GPT-35-Turbo model specified in the scenario. The Embeddings endpoint is not appropriate for generating responses, as it serves a different purpose, such as creating vector representations of text.
@@ -2914,6 +3188,8 @@ Select only one answer.
 ###### ID138
 
 A:: =============================================  
+___
+
 1. Configure Azure AI Search.
 
 Configuring Azure AI Search is the most appropriate solution because it provides indexing and querying capabilities that enable effective interaction with external data sources. Deploying a custom model in Azure Machine Learning is not suitable as it focuses on model deployment rather than facilitating external data source interaction. Using Azure AI Document Intelligence is not appropriate because it is designed for extracting structured data from documents, which does not align with the broader goal of data retrieval and analysis. Implementing Azure Bot Framework is ineffective in this context as it is intended for building conversational interfaces and does not address the need for data retrieval and analysis.
@@ -2938,6 +3214,8 @@ Select all answers that apply.
 ###### ID139
 
 A:: =============================================  
+___
+
 1. defines what the model should and should not do
 
 2. helps define the assistant’s personality
@@ -2964,6 +3242,8 @@ Select only one answer.
 ###### ID140
 
 A:: =============================================  
+___
+
 1. Disabled, and allow a private endpoint connection to establish access
 
 Because the requirements state that access to the resource should only be for applications hosted in the Azure subscription, setting the network option to Disabled and configuring a private endpoint meets this requirement.
@@ -2991,6 +3271,8 @@ Select all answers that apply.
 ###### ID141
 
 A:: =============================================  
+___
+
 1. the API version used in this operation
 
 2. the name of the Azure OpenAI service resource
@@ -3017,6 +3299,8 @@ Select only one answer.
 ###### ID142
 
 A:: =============================================  
+___
+
 1. the size of the images in pixel resolution
 
 To make a REST call to the services, you need the endpoint and authorization key for the Azure OpenAI service resource you provisioned in Azure. You initiate the image generation process by submitting a `POST` request to the service endpoint that has the authorization key in the header. The request must contain the following parameters in a JSON body:
@@ -3048,6 +3332,8 @@ Select only one answer.
 ###### ID143
 
 A:: =============================================  
+___
+
 1. DALL-E
 
 DALL-E is the appropriate choice for creating visual content from text descriptions, as it is specifically designed for this purpose. Azure Cognitive Search focuses on information retrieval and does not support visual content creation. GPT-4 is optimized for text-based tasks and lacks the capability to generate visual content. Text Embedding Models are intended for embedding tasks and are unrelated to the goal of creating visual content from text descriptions.
@@ -3076,6 +3362,8 @@ Select all answers that apply.
 ###### ID144
 
 A:: =============================================  
+___
+
 1. Deploy a GPT-4 model
 
 2. Provision a Azure AI Foundry resource.
@@ -3106,6 +3394,8 @@ Select all answers that apply.
 ###### ID145
 
 A:: =============================================  
+___
+
 1. Set 'quality' to hd.
 
 2. Specify 'size' as 1024x1792.
@@ -3132,6 +3422,8 @@ Select only one answer.
 ###### ID146
 
 A:: =============================================  
+___
+
 1. Provide standard-compliant examples in prompts.
 
 Providing examples of code adhering to standards in the input prompts ensures the AI model generates code that aligns with those standards, addressing the issue effectively. Enabling multi-region deployment enhances availability and resilience but does not impact code adherence to standards. Increasing compute resources may improve processing speed but does not affect code adherence to standards. Models optimized for chat-based interactions are not specifically designed to improve code adherence to standards.
@@ -3156,6 +3448,8 @@ Select only one answer.
 ###### ID147
 
 A:: =============================================  
+___
+
 1. Refine prompts to specify key details.
 
 Refining prompts to specify key details ensures the AI model generates concise and relevant summaries, directly addressing the optimization requirement. Enabling diagnostic logging provides insights into system performance but does not impact the quality of generated summaries. Increasing the token limit allows for longer responses but does not inherently improve quality. Switching to a higher-cost model may enhance performance but does not guarantee better summaries without prompt optimization.
@@ -3180,6 +3474,8 @@ Select only one answer.
 ###### ID148
 
 A:: =============================================  
+___
+
 1. Azure AI Vision Image Analysis
 
 The Azure AI Vision Image Analysis service can extract a wide variety of visual features from an image. One of them is to detect adult content.
@@ -3208,6 +3504,8 @@ Select only one answer.
 ###### ID149
 
 A:: =============================================  
+___
+
 1. Azure AI Document Intelligence
 
 The Azure AI Document Intelligence is a service that lets you build automated data processing software by using machine learning technology. It allows you to identify and extract text and key/value pairs.
@@ -3235,6 +3533,8 @@ Select all answers that apply.
 ###### ID150
 
 A:: =============================================  
+___
+
 1. invoice
 
 2. receipt
@@ -3263,6 +3563,8 @@ Select only one answer.
 ###### ID151
 
 A:: =============================================  
+___
+
 1. Azure AI Vision
 
 Azure AI Vision is the only service which can achieve the desired result.
@@ -3289,6 +3591,8 @@ Select only one answer.
 ###### ID152
 
 A:: =============================================  
+___
+
 1. Azure AI Document Intelligence
 
 Azure AI Document Intelligence is designed to work with documents such as receipts, as it offers prebuilt models for extracting information from these kinds of documents.
@@ -3314,6 +3618,8 @@ Select only one answer.
 ###### ID153
 
 A:: =============================================  
+___
+
 1. Azure AI Foundry
 
 Azure AI Foundry is the most appropriate platform because it offers specialized tools for deploying models, connecting data, and managing AI resources. Azure AI Content Understanding focuses on multimodal content analysis and does not support custom model development. Azure AI Speech is designed for speech-related tasks and lacks the necessary features for connecting or operationalizing generative AI models. Azure AI Vision is tailored for prebuilt computer vision models and does not meet the requirements for AI model development.
@@ -3339,6 +3645,8 @@ Select all answers that apply.
 ###### ID154
 
 A:: =============================================  
+___
+
 1. Conduct red team exercises to test vulnerabilities.
 
 2. Document the model's decision-making logic.
@@ -3368,6 +3676,8 @@ Select only one answer.
 ###### ID155
 
 A:: =============================================  
+___
+
 1. Content Safety
 
 Content Safety is the only listed service that provides the ability to automatically flag content in text or images as harmful. Content Safety recognizes four distinct categories of objectionable content: Hate and fairness, sexual, violence, and self-harm.
@@ -3396,6 +3706,8 @@ Select only one answer.
 ###### ID156
 
 A:: =============================================  
+___
+
 1. Content Safety
 
 Content Safety jailbreak risk detection recognizes four different classes of jailbreak attacks: Attempt to change system rules, embedding a conversation mockup to confuse the model , role-play, and encoding attacks. These can be used in LLM-based applications to prevent jailbreak attacks. All the other services listed are designed for different purposes.
@@ -3421,6 +3733,8 @@ Select only one answer.
 ###### ID157
 
 A:: =============================================  
+___
+
 1. Implement Azure AI Foundry Content Safety.
 
 Azure Content Safety is the most suitable solution because it analyzes user inputs and reference documents to detect and block harmful or policy-violating content, ensuring generated educational materials are safe and compliant. Azure AI Services Text Analytics evaluates sentiment but does not address content safety or compliance. Training a custom model improves content relevance but does not safeguard against inappropriate or misleading outputs. Azure Translator enhances accessibility through multilingual support but does not address the core issue of ensuring content safety and compliance.
@@ -3445,6 +3759,8 @@ Select all answers that apply.
 ###### ID158
 
 A:: =============================================  
+___
+
 1. Configure harmful patterns using the Custom Categories API.
 
 2. Enable built-in blocklists in Content Safety Studio.
@@ -3472,6 +3788,8 @@ Select only one answer.
 ###### ID159
 
 A:: =============================================  
+___
+
 1. Person and Address only
 
 Person and Address will detect names and addresses.
@@ -3498,6 +3816,8 @@ Select only one answer.
 ###### ID160
 
 A:: =============================================  
+___
+
 1. Person
 
 The Person category detects names of people in the PII detection feature. The PhoneNumber category detects phone numbers, the age category detects people’s ages, and the DateTime detects dates and time values.
@@ -3523,6 +3843,8 @@ Select only one answer.
 ###### ID161
 
 A:: =============================================  
+___
+
 1. Azure Storage
 
 Azure Storage is the only storage provider that can be used by default for batch transcription.
@@ -3550,6 +3872,8 @@ Select only one answer.
 ###### ID162
 
 A:: =============================================  
+___
+
 1. the List entity using Strict mode
 
 The List entity is made up of a list of phrases that will guide the engine on how to match the text. When an entity has an  of type List and is in Strict mode, the engine will only match if the text in the slot appears in the list.
@@ -3574,6 +3898,8 @@ Select only one answer.
 ###### ID163
 
 A:: =============================================  
+___
+
 1. between 0 and 100
 
 A BLEU score is a number between zero and 100. A score of zero indicates a low-quality translation, where nothing in the translation matches the reference. A score of 100 indicates a perfect translation that is identical to the reference. It is unnecessary to attain a score of 100. A BLEU score between 40 and 60 indicates a high-quality translation.
@@ -3599,6 +3925,8 @@ Select only one answer.
 ###### ID164
 
 A:: =============================================  
+___
+
 1. precision
 
 Precision measures how precise/accurate a model is. It is the ratio between the correctly identified positives (true positives) and all identified positives. The precision metric reveals how many of the predicted classes are correctly labeled.
@@ -3627,6 +3955,8 @@ Select all answers that apply.
 ###### ID165
 
 A:: =============================================  
+___
+
 1. when you have a bot conversation that includes static information
 
 2. when you have static information in a knowledge base of answers
@@ -3656,6 +3986,8 @@ Select only one answer.
 ###### ID166
 
 A:: =============================================  
+___
+
 1. formatted text, URLs, and bulleted and numbered lists only
 
 Currently, the extraction of images within documents that are uploaded to question answering for extraction is unsupported, as images need to be reachable via a public URL.
@@ -3680,6 +4012,8 @@ Select only one answer.
 ###### ID167
 
 A:: =============================================  
+___
+
 1. object detection
 
 Object detection returns the coordinates in an image where the applied label(s) can be found, while image classification applies one or more labels to an entire image.
@@ -3705,6 +4039,8 @@ Select only one answer.
 ###### ID168
 
 A:: =============================================  
+___
+
 1. Evaluate precision and recall metrics.
 
 Evaluating precision and recall metrics is the most effective way to assess the performance of an object detection model, as these metrics provide a detailed understanding of its accuracy and ability to identify objects correctly. Deploying the model without testing bypasses the critical step of ensuring its reliability and effectiveness. Sourcing new images for testing isn't necessary with a dataset already containing validation images. Retraining the model with a new dataset focuses on improving data quality rather than assessing the current model's performance, making it unsuitable for the given objective.
@@ -3729,6 +4065,8 @@ Select only one answer.
 ###### ID169
 
 A:: =============================================  
+___
+
 1. Compact domain
 
 Only Compact domain is correct. The Azure AI Custom Vision service only exports compact domains, and the models generated by compact domains are optimized for the constraints of real-time classification on mobile devices.
@@ -3754,6 +4092,8 @@ Select only one answer.
 ###### ID170
 
 A:: =============================================  
+___
+
 1. Upload the video, get the video index, and get the thumbnail for each keyframe.
 
 You need to upload the video, get the video index, and get the thumbnail for each keyframe. Three API calls need to be done.
@@ -3779,6 +4119,8 @@ Select only one answer.
 ###### ID171
 
 A:: =============================================  
+___
+
 1. `name`, `description`, and `skills`
 
 Only `name`, `description`, and `skills` are required.
@@ -3809,6 +4151,8 @@ Select only one answer.
 ###### ID172
 
 A:: =============================================  
+___
+
 1. `Microsoft.Skills.Custom.WebApiSkill`
 
 `Microsoft.Skills.Custom.WebApiSkill` allows the extensibility of an AI enrichment pipeline by making an HTTP call to a custom web API.
@@ -3834,6 +4178,8 @@ Select only one answer.
 ###### ID173
 
 A:: =============================================  
+___
+
 1. `Microsoft.Skills.Text.V3.EntityLinkingSkill`
 
 `Microsoft.Skills.Text.V3.EntityLinkingSkill` uses a pretrained model to generate links for recognized entities to articles in Wikipedia.
@@ -3859,6 +4205,8 @@ Select only one answer.
 ###### ID174
 
 A:: =============================================  
+___
+
 1. `Microsoft.Skills.Util.DocumentExtractionSkill`
 
 `Microsoft.Skills.Util.DocumentExtractionSkill` is the built-in skill used to extract content from a file within the enrichment pipeline.
@@ -3884,6 +4232,8 @@ Select only one answer.
 ###### ID175
 
 A:: =============================================  
+___
+
 1. Use prebuilt models for Health Insurance Card and  Document.
 
 Prebuilt models for Health Insurance Card and  Document in Microsoft Azure AI Document Intelligence are the optimal choice for extracting structured data from these forms because they are specifically designed for this purpose, ensuring accuracy and efficiency. Training a composed model introduces unnecessary complexity when prebuilt models are available for these document types. Azure OCR focuses on text extraction without contextual understanding, making it unsuitable for structured data extraction. The Layout model supports key-value pair extraction but lacks the specificity required for extracting specific fields from health insurance cards and identity documents.
@@ -3910,6 +4260,8 @@ Select only one answer.
 ###### ID176
 
 A:: =============================================  
+___
+
 1. Azure Document Intelligence layout model
 
 Azure Document Intelligence layout model is the most appropriate solution because it is specifically designed to extract text, tables, and selection marks while preserving the document's structure, which is essential for processing multi-page PDF documents. Azure AI Vision OCR is limited to text extraction from images and does not support advanced features like table or selection mark recognition. The general model supports entity extraction but does not focus on maintaining the document's structure. The read model is limited to extracting printed and handwritten text and does not include the advanced capabilities required for this scenario.
@@ -3936,6 +4288,8 @@ Select only one answer.
 ###### ID177
 
 A:: =============================================  
+___
+
 1. Azure AI Content Understanding
 
 Azure AI Content Understanding is the most suitable solution as it offers transcription, sentiment classification, and summary generation capabilities for audio recordings, addressing all requirements of the scenario. Azure AI Document Intelligence is not appropriate because it processes text-based documents and lacks audio-related functionalities. Azure AI Language offers sentiment analysis and summaries but is unable to transcribe audio. Azure AI Speech can transcribe the audio but lacks other required functionality.
@@ -3962,6 +4316,8 @@ Select only one answer.
 ###### ID178
 
 A:: =============================================  
+___
+
 1. positive
 
 If there is at least one positive sentence in the document, and the rest of the document is neutral, then the document label is positive.
@@ -3986,6 +4342,8 @@ Select only one answer.
 ###### ID179
 
 A:: =============================================  
+___
+
 1. Be liberal.
 
 Be liberal is correct. Any in-domain human translation is better than machine translation. Add and remove documents as you go and try to improve the Bilingual Evaluation Understudy (BLEU) score.
@@ -4010,6 +4368,8 @@ Select all answers that apply.
 ###### ID180
 
 A:: =============================================  
+___
+
 1. Connect to Language Understanding applications that are owned by the same resource as the orchestration workflow.
 
 2. Connect to question answering projects that are in the same Azure AI Language service resource as your orchestration workflow.
@@ -4038,6 +4398,8 @@ Select all answers that apply.
 ###### ID181
 
 A:: =============================================  
+___
+
 1. the required throughput
 
 2. the size and the number of knowledge bases
@@ -4063,6 +4425,8 @@ Select only one answer.
 ###### ID182
 
 A:: =============================================  
+___
+
 1. Azure AI Document Intelligence
 
 Azure AI Document Intelligence is capable of automatically extracting information from given documents by using machine learning.
@@ -4088,6 +4452,8 @@ Select only one answer.
 ###### ID183
 
 A:: =============================================  
+___
+
 1. Azure AI Video Indexer
 
 The only service that can customize the language model for a solution based on gaining insights from videos in Azure AI Video Indexer.
@@ -4112,6 +4478,8 @@ Select only one answer.
 ###### ID184
 
 A:: =============================================  
+___
+
 1. Deploy the solution to a Docker host container.
 
 You can use disconnected containers to host Language Understanding on-premises.
@@ -4138,6 +4506,8 @@ Select all answers that apply.
 ###### ID185
 
 A:: =============================================  
+___
+
 1. a subscription key
 
 2. Microsoft Entra
@@ -4168,6 +4538,8 @@ Select only one answer.
 ###### ID186
 
 A:: =============================================  
+___
+
 1. Grant access to an internet IP range.
 
 If you enable the firewall for the Azure AI Services account, you need to allow network access to the service. You can achieve this by either allowing access from a specific virtual network or adding an IP range to the firewall rules. In this situation, the app is deployed to the internet, and you can provide specific internet hosts access by adding an IP or range of IPs to the firewall rules.
@@ -4194,6 +4566,8 @@ Select all answers that apply.
 ###### ID187
 
 A:: =============================================  
+___
+
 1. a Log Analytics workspace
 
 2. an Azure Storage account
@@ -4223,6 +4597,8 @@ Select only one answer.
 ###### ID188
 
 A:: =============================================  
+___
+
 1. Confirm that the API key is for the correct resource type.
 
 Mismatch means that the wrong API key has been used. If you have provided an API key or endpoint for a different kind of Azure AI Services resource, you find your API key and service region in the Azure portal, in the Keys and Endpoint section for your Azure AI Services resource.
@@ -4253,6 +4629,8 @@ Select only one answer.
 ###### ID189
 
 A:: =============================================  
+___
+
 1. Adjust the severity level.
 
 Best practices for improving system performance:
@@ -4282,6 +4660,8 @@ Select only one answer.
 ###### ID190
 
 A:: =============================================  
+___
+
 1. Add custom functions.
 
 Adding custom functions enables the AI agent to dynamically execute specific actions such as scheduling meetings and sending notifications, making it the most suitable choice for the scenario. Configuring static templates does not provide the flexibility needed for dynamic action execution, limiting its effectiveness. Default model capabilities lack the ability to perform specific programmatic actions, making them insufficient for the task. Using a pre-trained chatbot framework without customization fails to address the specific requirements for executing actions programmatically, reducing its applicability in this context.
@@ -4307,6 +4687,8 @@ Select all answers that apply.
 ###### ID191
 
 A:: =============================================  
+___
+
 1. Add Bing search tools in the agent configuration.
 
 2. Configure Azure Functions in the agent configuration file.
@@ -4335,6 +4717,8 @@ Select all answers that apply.
 ###### ID192
 
 A:: =============================================  
+___
+
 1. Define tools for API access.
 
 2. Deploy the agent using Azure SDK.
@@ -4363,6 +4747,8 @@ Select only one answer.
 ###### ID193
 
 A:: =============================================  
+___
+
 1. The model version reached its retirement date.
 
 As your use of Azure OpenAI evolves, and you start to build and integrate with applications, you might want to manually control model updates so that you can first test and validate whether model performance remains consistent for a use case before performing an upgrade.
@@ -4390,6 +4776,8 @@ Select only one answer.
 ###### ID194
 
 A:: =============================================  
+___
+
 1. the result element
 
 The result from the initial request does not immediately return the results of the image generation process. Instead, the response includes an **operation-location** header with a URL for a callback service that your application code can poll until the results of the image generation are ready. The **result** element includes a collection of **url** elements, each of which references a PNG image file generated from the prompt.
@@ -4418,6 +4806,8 @@ Select only one answer.
 ###### ID195
 
 A:: =============================================  
+___
+
 1. Strictness
 
 The Strictness parameter sets the threshold to categorize documents as relevant to your queries. Raising the Strictness parameter value means a higher threshold for relevance and filters out more less-relevant documents for responses. Retrieved documents specifies the number of top-scoring documents from your data index used to generate responses. Content data specifies the fields in your index that contain the main text content of each document. File name specifies the field in your index that contains the original file name of each document.
@@ -4443,6 +4833,8 @@ Select all answers that apply.
 ###### ID196
 
 A:: =============================================  
+___
+
 1. Be Descriptive
 
 2. Be Specific
@@ -4471,6 +4863,8 @@ Select only one answer.
 ###### ID197
 
 A:: =============================================  
+___
+
 1. Enable semantic search.
 
 Enabling semantic search enhances the precision and relevance of search results by interpreting the meaning behind query terms, making it the most suitable solution for improving response accuracy in this scenario. Increasing chunk size impacts data processing but does not directly affect the accuracy of retrieved data. Deploying an additional Azure OpenAI model does not address the specific need for improving data retrieval accuracy from the search index. Using keyword search lacks semantic capabilities, which are essential for achieving the desired level of accuracy.
@@ -4495,6 +4889,8 @@ Select only one answer.
 ###### ID198
 
 A:: =============================================  
+___
+
 1. Enable vector search.
 
 Enabling vector search enhances the relevance and efficiency of data retrieval, meeting the stated goal. Deploying an additional model does not address the need for efficient data retrieval, making it unsuitable. Increasing chunk size affects data processing but does not directly improve retrieval efficiency. Using keyword-based search lacks semantic capabilities, which are critical for achieving the desired outcome.
@@ -4522,6 +4918,8 @@ Select all answers that apply.
 ###### ID199
 
 A:: =============================================  
+___
+
 1. Fine-tune the model with customer feedback data.
 
 2. Set up monitoring in Azure to track response accuracy and resource usage.
@@ -4550,6 +4948,8 @@ Select only one answer.
 ###### ID200
 
 A:: =============================================  
+___
+
 1. Set strictness to a higher value.
 
 Setting strictness to a higher value ensures that only the most relevant documents are retrieved, effectively prioritizing relevance during data retrieval. Enabling hybrid search mode combines different search methods but does not specifically focus on document relevance. Increasing the number of retrieved documents may include less relevant data, which contradicts the goal of prioritizing relevance. Reducing chunk size impacts data granularity but does not directly influence the prioritization of document relevance.
@@ -4574,6 +4974,8 @@ Select only one answer.
 ###### ID201
 
 A:: =============================================  
+___
+
 1. Use Retrieval-Augmented Generation (RAG) with Azure AI Search for grounding data.
 
 Using Retrieval-Augmented Generation (RAG) with Azure AI Search ensures the model provides accurate and contextually relevant summaries by incorporating domain-specific data. Deploying a model without grounding data relies solely on pre-trained capabilities, resulting in less accurate outputs. Fine-tuning a model without an orchestration layer fails to dynamically integrate real-time contextual data, limiting its effectiveness, and is significantly more expensive. Applying prompt engineering without external data sources improves response quality but does not address the need for domain-specific grounding.
@@ -4599,6 +5001,8 @@ Select all answers that apply.
 ###### ID202
 
 A:: =============================================  
+___
+
 1. Train a custom model using labeled datasets in Azure AI Document Intelligence.
 
 2. Use the prebuilt Invoice model in Azure AI Document Intelligence.
@@ -4628,6 +5032,8 @@ Select all answers that apply.
 ###### ID203
 
 A:: =============================================  
+___
+
 1. Detect language
 
 2. Dictionary lookup
@@ -4658,6 +5064,8 @@ Select only one answer.
 ###### ID204
 
 A:: =============================================  
+___
+
 1. 40 to 59
 
 between 40 and 60 indicates a high-quality translation..
@@ -4682,6 +5090,8 @@ Select only one answer.
 ###### ID205
 
 A:: =============================================  
+___
+
 1. Speaker identification
 
 Text-independent verification means that speakers can speak in everyday language in enrollment and verification phases.
@@ -4709,6 +5119,8 @@ Select only one answer.
 ###### ID206
 
 A:: =============================================  
+___
+
 1. custom speech-to-text
 
 The custom speech-to-text model is correct, as you need to adapt the model because a factory floor might have ambient noise, which the model should be trained on.
@@ -4734,6 +5146,8 @@ Select only one answer.
 ###### ID207
 
 A:: =============================================  
+___
+
 1. Publish the model and retrieve its Prediction URL and key.
 
 Publishing the trained iteration and retrieving its Prediction URL and key is the appropriate action to make the model accessible for programmatic predictions in a production environment. Exporting the model for local use is not aligned with the goal of leveraging the Microsoft Azure Custom Vision Prediction API. Re-training the model is unnecessary as the current performance metrics are satisfactory and does not contribute to the deployment process. Creating a new Azure resource is unrelated to the task of deploying the trained model and does not address the stated goal.
@@ -4762,6 +5176,8 @@ Select all answers that apply.
 ###### ID208
 
 A:: =============================================  
+___
+
 1. Prioritize reviewing tags with high prediction uncertainty.
 
 2. Review and confirm suggested tags for each image.
@@ -4793,6 +5209,8 @@ Select only one answer.
 ###### ID209
 
 A:: =============================================  
+___
+
 1. multiclass
 
 Multilabel classification applies any number of tags to an image (zero or more), while multiclass classification sorts images into single categories (every image you submit will be sorted into the most likely tag). Therefore, using multilabel means that one image can be tagged as both “cat” and “dog” at the same time, although it should be either/or.
@@ -4815,6 +5233,8 @@ Select only one answer.
 ###### ID210
 
 A:: =============================================  
+___
+
 1. key phrase extraction
 
 You should use the key phrase extraction endpoint.
@@ -4842,6 +5262,8 @@ Select only one answer.
 ###### ID211
 
 A:: =============================================  
+___
+
 1. `opinionMining=true`
 
 `opinionMining=true` will add aspect-based sentiment analysis, which in turn will make the sentiment more granular so that positive and negative in a single sentence can be returned.
@@ -4870,6 +5292,8 @@ Select only one answer.
 ###### ID212
 
 A:: =============================================  
+___
+
 1. standard and advanced only
 
 Both standard and advanced are from CLU. Deterministic is a method from Language Understanding.
@@ -4900,6 +5324,8 @@ Select only one answer.
 ###### ID213
 
 A:: =============================================  
+___
+
 1. Wait at least 30 minutes before checking for suggestions.
 
 Active learning suggestions are not in real time. There is an approximate delay of 30 minutes before suggestions show on this pane. This delay balances the high cost involved in real-time updates to the index and service performance.
@@ -4928,6 +5354,8 @@ Select all answers that apply.
 ###### ID214
 
 A:: =============================================  
+___
+
 1. HTML
 
 2. MD
@@ -4960,6 +5388,8 @@ Select only one answer.
 ###### ID215
 
 A:: =============================================  
+___
+
 1. Some of the files are password protected.
 
 The service cannot process password-protected files, and this can cause the service a processing failure for some of the files. Although file size and number of pages can cause failures, the limit for the S0 tier is 500 MB and 2,000 pages.
@@ -4988,6 +5418,8 @@ Select all answers that apply.
 ###### ID216
 
 A:: =============================================  
+___
+
 1. Microsoft Excel
 
 2. Microsoft Word
@@ -5020,6 +5452,8 @@ Select all answers that apply.
 ###### ID217
 
 A:: =============================================  
+___
+
 1. Ensure input files meet required specifications.
 
 2. Select the Invoice model.
@@ -5050,6 +5484,8 @@ Select only one answer.
 ###### ID218
 
 A:: =============================================  
+___
+
 1. GPT-4
 
 Azure AI Vision is designed for analyzing visual content and does not support text generation, making it unsuitable for the scenario. Code-Davinci-003 is optimized for code generation tasks and lacks the capabilities required for text generation, which disqualifies it as a viable option. DALL-E specializes in generating images from textual descriptions and does not meet the requirement for text generation. GPT-4, on the other hand, is specifically designed for generating detailed and contextually accurate text responses, making it the most appropriate choice for the given requirement.
@@ -5076,6 +5512,8 @@ Select only one answer.
 ###### ID219
 
 A:: =============================================  
+___
+
 1. `az cognitiveservices account show --name myresource --resource-group cognitive-services-resource-group `
 
 As you need to provide the name and the resource group for your Cognitive Service account to retrieve the endpoint amongst other information for the resource, `az cognitiveservices account show --name myresource --resource-group cognitive-services-resource-group` is the only valid command.
@@ -5103,6 +5541,8 @@ Select only one answer.
 ###### ID220
 
 A:: =============================================  
+___
+
 1. Grant access to a specific virtual network.
 
 If you enable the firewall for the Azure AI Services account, you need to allow network access to the service. You can achieve this by either allowing access from a specific virtual network or adding an IP range to the firewall rules. In this situation, the app is deployed to a virtual machine in Azure, which resides in a virtual network. You can provide access to virtual networks in Azure to access specific service endpoints.
@@ -5132,6 +5572,8 @@ Select only one answer.
 ###### ID221
 
 A:: =============================================  
+___
+
 1. From App1, enable a managed identity and assign role-based access control (RBAC) permissions to Azure AI Services.
 
 With a managed identity, the rotation of the secrets (certificates) is done automatically.
@@ -5158,6 +5600,8 @@ Select only one answer.
 ###### ID222
 
 A:: =============================================  
+___
+
 1. a false negative
 
 A false negative arises when the model fails to identify harmful content and returns a severity level of 0. There are four accuracy error types, and a false negative indicates incorrectly accepted content in the text.
@@ -5184,6 +5628,8 @@ Select all answers that apply.
 ###### ID223
 
 A:: =============================================  
+___
+
 1. Assign the Storage Blob Data Contributor/Owner/Reader role to the system-assigned managed identity.
 
 2. Enable a system-assigned managed identity for the Content Safety instance.
@@ -5207,6 +5653,8 @@ Select only one answer.
 ###### ID224
 
 A:: =============================================  
+___
+
 1. object detection
 
 Object detection is similar to image classification, but it returns the coordinates in an image where the applied label(s) can be found.
@@ -5236,6 +5684,8 @@ Select only one answer.
 ###### ID225
 
 A:: =============================================  
+___
+
 1. Remove the “&” character from the text file.
 
 You need to remove the “&” character because sentences with special characters will be discarded.
@@ -5264,6 +5714,8 @@ Select only one answer.
 ###### ID226
 
 A:: =============================================  
+___
+
 1. Azure AI Search
 
 Azure OpenAI on your data enables developers to use supported AI chat models that can reference specific sources of information to ground the response. Adding this information allows the model to reference both the specific data provided and its pretrained knowledge to provide more effective responses. Azure OpenAI on your data utilizes the search ability of Azure AI Search to add the relevant data chunks to a prompt.
@@ -5290,6 +5742,8 @@ Select only one answer.
 ###### ID227
 
 A:: =============================================  
+___
+
 1. `“queryType”: “full” `
 
 queryType “full” extends the default Simple query language by adding support for more operators and query types, such as wildcard, fuzzy, regex, and field-scoped queries.
@@ -5315,6 +5769,8 @@ Select only one answer.
 ###### ID228
 
 A:: =============================================  
+___
+
 1. You are only interested in matching strictly what the user said.
 
 The only option is to use pattern matching over Language Understanding when you want to strictly match what a user said, as the incorrect options are only available in Language Understanding.
@@ -5342,6 +5798,8 @@ Select only one answer.
 ###### ID229
 
 A:: =============================================  
+___
+
 1. Add utterances for languages that are performing poorly in the model.
 
 With CLU, there is no need to use multiple projects for a model. For example, you can train a model in English and query it in German. There is no project language, therefore, adding utterances for languages in the model that are performing poorly is the appropriate solution to increase performance.
@@ -5367,6 +5825,8 @@ Select only one answer.
 ###### ID230
 
 A:: =============================================  
+___
+
 1. the source language
 
 If the language of the content in the source document is known, it is recommended to specify the source language in the request to get a better translation.
@@ -5392,6 +5852,8 @@ Select only one answer.
 ###### ID231
 
 A:: =============================================  
+___
+
 1. Use Azure AI Content Understanding.
 
 Azure AI Content Understanding is the most appropriate solution as it is specifically designed to analyze images and extract structured data, such as product counts, directly addressing the requirements. Training a Custom Vision model would require additional effort and resources without providing any significant advantage over the existing capabilities of Azure AI Content Understanding. Prebuilt Azure AI Vision models can detect bounding boxes but does not offer the ability to count or extract structured data about products, making it unsuitable for this task. Azure AI Foundry GPT models can provide information based on provided data or information but is unable to achieve the desired result on its own.
@@ -5415,6 +5877,8 @@ Select only one answer.
 ###### ID232
 
 A:: =============================================  
+___
+
 1. Set the detection model to `detection_03`.
 
 Model_3 Improves accuracy on small, side-view, and blurry faces.
@@ -5439,6 +5903,8 @@ Select only one answer.
 ###### ID233
 
 A:: =============================================  
+___
+
 1. key phrase extraction
 
 Key phrase extraction is used to quickly identify the main concepts in text, whereas the other features do not return key phrases from longer text documents.
@@ -5464,6 +5930,8 @@ Select only one answer.
 ###### ID234
 
 A:: =============================================  
+___
+
 1. the prompt
 
 The prompt is the only required property to be used in the body of the HTTP request when requesting to generate a new image by using the DALL-E 3 Azure OpenAI API. The other properties are used in the HTTP header.
@@ -5486,6 +5954,8 @@ Select only one answer.
 ###### ID235
 
 A:: =============================================  
+___
+
 1. Spatial Analysis
 
 The only visual feature that provides this capability is Spatial Analysis, as OCR, Image Analysis, and face detection are not meant to analyze the presence of people in a video feed.
@@ -5530,6 +6000,8 @@ Select only one answer.
 ###### ID236
 
 A:: =============================================  
+___
+
 1. Remove any special characters from the call.
 
 Special characters are not allowed for synonyms.
@@ -5555,6 +6027,8 @@ Select only one answer.
 ###### ID237
 
 A:: =============================================  
+___
+
 1. `facetable`
 
 `facetable` is typically used in a presentation of search results that includes a hit count by category.
@@ -5580,6 +6054,8 @@ Select only one answer.
 ###### ID238
 
 A:: =============================================  
+___
+
 1. document cracking, field mapping, skillset execution, and output field mapping
 
 Document cracking, field mapping, skillset execution, and output field mapping are the stages of indexing.
@@ -5606,6 +6082,8 @@ Select only one answer.
 ###### ID239
 
 A:: =============================================  
+___
+
 1. separate workflow projects
 
 Orchestration workflow projects do not support the multilingual option, so you need to create a separate workflow project for each language.
@@ -5632,6 +6110,8 @@ Select only one answer.
 ###### ID240
 
 A:: =============================================  
+___
+
 1. custom product and people names
 
 Substitution errors are due to the model needing more training on custom product names and people names.
