@@ -1593,6 +1593,7 @@ Q:: =============================================
 
 A:: =============================================  
 ___
+Translate
 
 Source: [Translate text with Azure Translator service](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/)
 
@@ -1610,6 +1611,7 @@ Q:: =============================================
 
 A:: =============================================  
 ___
+Transliterate
 
 Source: [Translate text with Azure Translator service](https://learn.microsoft.com/en-us/training/modules/translate-text-with-translator-service/)
 
@@ -1688,6 +1690,7 @@ Q:: =============================================
 
 A:: =============================================  
 ___
+SpeechTranslationConfig
 
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
@@ -1705,6 +1708,7 @@ Q:: =============================================
 
 A:: =============================================  
 ___
+TranslationRecognizer
 
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
@@ -1722,6 +1726,7 @@ Q:: =============================================
 
 A:: =============================================  
 ___
+Only when translating to a single target language.
 
 Source: [Translate speech with the Azure Speech service](https://learn.microsoft.com/en-us/training/modules/translate-speech-speech-service/)
 
@@ -5968,23 +5973,26 @@ Q:: =============================================
 
 You execute the following API call and receive the following error.
 
-`"synonyms": [`
+```JSON
+"synonyms": [
 
-`        {`
+        {
 
-`            "alterations": [`
+            "alterations": [
 
-`                "fix problems",`
+                "fix problems",
 
-`                "troubleshoot",`
+                "troubleshoot",
 
-`                "#diagnostic",`
+                "#diagnostic",
 
-`                ]`
+                ]
 
-`        },`
+        },
 
-`...`
+...
+```
+
 
 You need to ensure that the API call executes successfully.
 
