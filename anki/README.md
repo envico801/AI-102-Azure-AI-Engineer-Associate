@@ -2616,7 +2616,9 @@ ___
 
 The features used in the call are `read` and `description`, which will return the visible text in the image, as well as a description of the image content.
 To return the objects that are in the image and their approximate location, the feature used in the call should be `objects`. To return a description of the image content only, the feature `description` should be used alone.
+
 [Call the Image Analysis API - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/how-to/call-analyze-image?tabs=rest)
+
 [Read Text in Images and Documents with the Computer Vision Service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/read-text-images-documents-with-computer-vision-service/)
 
 Q:: =============================================  
@@ -2643,7 +2645,9 @@ ___
 ###### 1. teal
 
 Only a certain set of colors can be returned by the API. The set of possible returned colors is black, blue, brown, gray, green, orange, pink, purple, red, teal, white, and yellow.
+
 [Color scheme detection - Computer Vision - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/concept-detecting-color-schemes)
+
 [Analyze images - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-images/)
 
 Q:: =============================================  
@@ -2669,7 +2673,9 @@ ___
 ###### 1. optical character recognition (OCR)
 
 OCR is the only visual feature that can extract text from images.
+
 [What is Computer Vision? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview)
+
 [Read Text in Images and Documents with the Computer Vision Service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/read-text-images-documents-with-computer-vision-service/)
 
 Q:: =============================================  
@@ -2726,6 +2732,7 @@ ___
 ###### 2. Use consistent tags to label images.
 
 Using consistent tags to label images ensures that the model can accurately associate visual features with their respective categories, which is essential for effective training. Selecting the 'Food' domain optimizes the model for food-related image classification tasks, leveraging domain-specific features to enhance performance. Setting a high probability threshold during training is not suitable because it could reduce recall by limiting the number of classifications detected. Similarly, selecting the 'General' domain is not ideal as it lacks the specialization required for food-related tasks, potentially leading to suboptimal results.
+
 [Understand types of classification projects - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/custom-text-classification/2-understand-types-of-classification-projects)
 
 [Select a domain for a Custom Vision project - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/select-domain)
@@ -2752,7 +2759,9 @@ ___
 
 The Custom Brands model supports brand detection from speech and visuals.
 Slate detection is used for clapper boards and digital patterns with color bars, and the custom Language model is used to add words that are not in the model.
+
 [Customize a Brands model in Azure Video Indexer - Azure - Azure Video Indexer | Microsoft Learn](https://learn.microsoft.com/azure/azure-video-indexer/customize-brands-model-overview)
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -2787,7 +2796,9 @@ ___
 When training the model, you should avoid repeating an identical sentence multiple times, as it may create bias against the rest of the input.
 You should avoid including uncommon symbols (~, # @ % &), as they will be discarded. The sentences in which they appear will also be discarded.
 You should also avoid putting inputs that are too large, such as hundreds of thousands of sentences, because doing so will dilute the effect of boosting.
+
 [Customize a Language model in Azure Video Indexer - Azure - Azure Video Indexer | Microsoft Learn](https://learn.microsoft.com/azure/azure-video-indexer/customize-language-model-overview)
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -2814,7 +2825,9 @@ ___
 ###### 1. `multi-language detection `
 
 When indexing or reindexing a video by using the API, choose the multi-language detection option for the `sourceLanguage` parameter. The remaining options do not configure the API calls to enable multilingual identification.
+
 [Automatically identify and transcribe multi-language content with Azure Video Indexer - Azure Video Indexer | Microsoft Learn](https://learn.microsoft.com/azure/azure-video-indexer/multi-language-identification-transcription)
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -2841,7 +2854,9 @@ ___
 
 Tables are used for data that is best represented as rows and columns, or whenever you need granular representations of your data.
 Files are used when you need to save normalized, binary image files. Objects are used when you need the full JSON representation of your data and enrichments in one JSON document.
+
 [Projection concepts - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/knowledge-store-projection-overview#types-of-projections-and-usage)
+
 [Create an Azure Cognitive Search solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -2870,7 +2885,9 @@ ___
 
 Document cracking is the process of opening files and extracting content. It is the first stage of the indexing process.
 Text-based content can be extracted from files in a service, rows in a table, or items in a container or collection. If you add a skillset and image skills, document cracking can also extract images and queue them for image processing.
+
 [Indexer overview - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/search-indexer-overview)
+
 [Create an Azure Cognitive Search solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -2897,7 +2914,9 @@ ___
 ###### 1. a knowledge store
 
 A knowledge store is used for downstream apps, such as knowledge mining and data science. A knowledge store is defined within a skillset. Its definition determines whether your enriched documents are projected as tables or objects (files or blobs) in Azure Storage.
+
 [AI enrichment concepts - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/cognitive-search-concept-intro)
+
 [Create a knowledge store with Azure Cognitive Search - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-knowledge-store-azure-cognitive-search/)
 
 Q:: =============================================  
@@ -2924,6 +2943,7 @@ ___
 ###### 1. Use the Business Card model in Azure AI Document Intelligence.
 
 The Business Card model in Azure AI Document Intelligence is the optimal choice for processing business cards due to its specialized capabilities for extracting structured data such as names, email addresses, and phone numbers. Training a custom model is unnecessary because the Business Card model already meets the requirements. Azure AI Vision OCR lacks the ability to extract structured data, making it unsuitable for this task. The  Document model is designed for identity documents and does not provide the necessary functionality for processing business cards.
+
 [Use the Azure Document Intelligence Studio - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/9-form-recognizer-studio)
 
 [Use financial, , and tax models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/4-use-financial-id-tax-models)
@@ -2952,6 +2972,7 @@ ___
 ###### 1. Use the Invoice model in Azure AI Document Intelligence.
 
 The Invoice model in Azure AI Document Intelligence is the optimal choice for processing invoices due to its specialized capabilities for extracting structured data, even from poorly scanned documents. Training a custom model is unnecessary because the Invoice model already meets the requirements. Azure AI Vision OCR lacks the ability to extract structured data, making it unsuitable for this task. The Business Card model is designed for business cards and does not provide the necessary functionality for processing invoices.
+
 [Use financial, , and tax models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/4-use-financial-id-tax-models)
 
 Q:: =============================================  
@@ -2978,6 +2999,7 @@ ___
 ###### 1. Custom classification model in Azure AI Document Intelligence
 
 The custom classification model in Azure AI Document Intelligence is the most suitable solution because it is specifically designed to categorize documents into predefined categories, enabling accurate classification and supporting subsequent data extraction. Custom template models are limited to data extraction from structured documents and do not address classification needs. Azure AI Vision OCR focuses solely on text recognition and lacks the functionality required for document categorization. The Invoice model is tailored for invoice processing and does not meet the broader requirements for document classification described in the scenario.
+
 [What is Azure Document Intelligence? - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/2-what-form-recognizer)
 
 [Use financial, , and tax models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/4-use-financial-id-tax-models)
@@ -3038,6 +3060,7 @@ ___
 ###### 2. Use the prebuilt Invoice model for data extraction.
 
 Integrating the extracted data with an organization's database ensures the information is stored and used effectively within existing systems, supporting downstream processes and workflows. Using the prebuilt Invoice model for data extraction is ideal because it is specifically designed to handle invoice documents, extracting structured data such as key-value pairs and tables efficiently. Training a custom model for document processing is unnecessary in this scenario since the prebuilt Invoice model meets the requirements for standard invoices. Using a general-purpose model for text extraction does not align with the goal of extracting structured data from invoices, as it lacks the specificity required for this task.
+
 [What is Azure Document Intelligence? - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/2-what-form-recognizer)
 
 [Understand AI Document Intelligence - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/plan-form-recognizer-solution/2-understand)
@@ -3069,6 +3092,7 @@ ___
 ###### 2. Use the Layout model.
 
 Uploading documents to Azure Blob Storage ensures that the documents are secure and accessible for processing and analysis. Using the Layout model is critical for extracting key-value pairs and entities from structured and semi-structured documents, directly addressing the requirements of the task. Manually preprocessing documents to remove sensitive information is unnecessary because Azure AI Document Intelligence can handle sensitive data without manual intervention. The General Document model is deprecated and no longer used. Configuring an Azure AI Search resource is not necessary for this task.
+
 [Use the General Document, Read, and Layout models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/3-use-general-document-read-layout-models)
 
 Q:: =============================================  
@@ -3095,6 +3119,7 @@ ___
 ###### 1. Azure AI Language.
 
 Azure AI Language is the most appropriate service for this scenario as it specializes in analyzing and deriving insights from natural language text, directly addressing the requirements for text analysis. Azure AI Speech is not suitable because it focuses on audio transformations such as speech-to-text and text-to-speech, which are unrelated to the task. Azure AI Translator is designed for translating text between languages and does not provide the necessary capabilities for analyzing and generating insights from text. Azure AI Vision is focused on image-related tasks and lacks the functionality required for processing natural language text.
+
 [Plan and prepare to develop AI solutions on Azure - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-openai/5-deploy-models)
 
 [Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/3-azure-ai-services)
@@ -3123,6 +3148,7 @@ ___
 ###### 1. Semantic Kernel framework
 
 Azure Bot Framework is commonly used for building conversational bots but does not provide the orchestration features required for multi-agent workflows. Azure Machine Learning Studio is focused on developing machine learning models and does not address the need for orchestration in this scenario. Cognitive Services API offers pre-built AI functionalities but lacks the ability to orchestrate multi-agent workflows. Semantic Kernel framework is the most suitable choice as it supports generative AI orchestration and multi-agent workflows, aligning perfectly with the requirements of the scenario.
+
 [Provision an Azure AI Vision resource - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/analyze-images/2-provision-computer-vision-resource)
 
 [Developer tools and SDKs - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/5-tools-and-sdks)
@@ -3151,6 +3177,7 @@ ___
 ###### 1. Use Azure AI Search with built-in skills.
 
 Azure AI Search is the most suitable solution because it provides the required functionality for accessing and analyzing external documents with built-in skills, which aligns with the scenario's needs. Configuring a custom model in Azure Machine Learning focuses on document analysis but does not address the retrieval aspect, making it unsuitable. Enabling default capabilities in Azure Document Intelligence lacks the specific retrieval functionality needed for the task. Azure AI Vision Service can perform OCR but is not well suited for document processing and lacks the retrieval aspect.
+
 [Developer tools and SDKs - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/5-tools-and-sdks)
 
 Q:: =============================================  
@@ -3177,6 +3204,7 @@ ___
 ###### 1. Specify the GPT-35-Turbo deployment name.
 
 To configure the agent to effectively use the GPT-35-Turbo model, specifying the deployment name ensures the agent interacts with the correct model deployed in a Microsoft Azure OpenAI resource. Using the Completion endpoint is not suitable for this model, as the ChatCompletion endpoint is preferred, and these endpoints aren't applicable to agents. Deploying a GPT-4 model does not meet the requirement to use the GPT-35-Turbo model specified in the scenario. The Embeddings endpoint is not appropriate for generating responses, as it serves a different purpose, such as creating vector representations of text.
+
 [Get started with AI agent development on Azure - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
 
 Q:: =============================================  
@@ -3203,6 +3231,7 @@ ___
 ###### 1. Configure Azure AI Search.
 
 Configuring Azure AI Search is the most appropriate solution because it provides indexing and querying capabilities that enable effective interaction with external data sources. Deploying a custom model in Azure Machine Learning is not suitable as it focuses on model deployment rather than facilitating external data source interaction. Using Azure AI Document Intelligence is not appropriate because it is designed for extracting structured data from documents, which does not align with the broader goal of data retrieval and analysis. Implementing Azure Bot Framework is ineffective in this context as it is intended for building conversational interfaces and does not address the need for data retrieval and analysis.
+
 [Developer tools and SDKs - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/5-tools-and-sdks)
 
 Q:: =============================================  
@@ -3231,6 +3260,7 @@ ___
 ###### 2. helps define the assistant’s personality
 
 The system message is included at the beginning of the prompt and is used to prime the model with context, instructions, or other information relevant to the use case. You can use the system message to describe the assistant’s personality, define what the model should and should not answer, and define the format of model responses.
+
 [Prompt engineering techniques with Azure OpenAI - Azure OpenAI Service | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 
 Q:: =============================================  
@@ -3258,6 +3288,7 @@ ___
 
 Because the requirements state that access to the resource should only be for applications hosted in the Azure subscription, setting the network option to Disabled and configuring a private endpoint meets this requirement.
 All networks permit access to any network, including the internet. Selected networks access to networks outside of Azure, if configured that way.
+
 [How-to: Create and deploy an Azure OpenAI Service resource - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
 
 Q:: =============================================  
@@ -3290,6 +3321,7 @@ ___
 ###### 3. the name of the DALL-E 3 model deployment
 
 The name of the Azure OpenAI resource, the name of the DALL-E 3 model deployment, and the API version to be used are the three required header properties for HTTP requests. The other answers are valid for use in the HTTP body but not the header.
+
 [Azure OpenAI Service REST API reference - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/reference)
 
 Q:: =============================================  
@@ -3347,6 +3379,7 @@ ___
 ###### 1. DALL-E
 
 DALL-E is the appropriate choice for creating visual content from text descriptions, as it is specifically designed for this purpose. Azure Cognitive Search focuses on information retrieval and does not support visual content creation. GPT-4 is optimized for text-based tasks and lacks the capability to generate visual content. Text Embedding Models are intended for embedding tasks and are unrelated to the goal of creating visual content from text descriptions.
+
 [Plan and prepare to develop AI solutions on Azure - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-openai/3-use-azure-openai-studio)
 
 [Developer tools and SDKs - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/5-tools-and-sdks)
@@ -3411,6 +3444,7 @@ ___
 ###### 2. Specify 'size' as 1024x1792.
 
 To optimize image quality and resolution, 'quality' should be set to hd to ensure finer details and better consistency, and 'size' should be specified as 1024x1792 to meet the required resolution. Setting 'n' only determines the number of images generated and does not impact quality or resolution. Configuring 'output_format' affects the image format but does not influence image quality or resolution.
+
 [How to use Azure OpenAI image generation models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/how-to/dall-e?tabs=dalle-3)
 
 Q:: =============================================  
@@ -3437,6 +3471,7 @@ ___
 ###### 1. Provide standard-compliant examples in prompts.
 
 Providing examples of code adhering to standards in the input prompts ensures the AI model generates code that aligns with those standards, addressing the issue effectively. Enabling multi-region deployment enhances availability and resilience but does not impact code adherence to standards. Increasing compute resources may improve processing speed but does not affect code adherence to standards. Models optimized for chat-based interactions are not specifically designed to improve code adherence to standards.
+
 [Prompt engineering techniques - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering?tabs=chat)
 
 Q:: =============================================  
@@ -3463,6 +3498,7 @@ ___
 ###### 1. Refine prompts to specify key details.
 
 Refining prompts to specify key details ensures the AI model generates concise and relevant summaries, directly addressing the optimization requirement. Enabling diagnostic logging provides insights into system performance but does not impact the quality of generated summaries. Increasing the token limit allows for longer responses but does not inherently improve quality. Switching to a higher-cost model may enhance performance but does not guarantee better summaries without prompt optimization.
+
 [Prompt engineering techniques - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/prompt-engineering?tabs=chat)
 
 Q:: =============================================  
@@ -3490,9 +3526,13 @@ ___
 
 The Azure AI Vision Image Analysis service can extract a wide variety of visual features from an image. One of them is to detect adult content.
 The Azure AI Face service provides AI algorithms that detect, recognize, and analyze human faces in images. Azure AI Custom Vision is an image recognition service that lets you build, deploy, and improve own image identifier models. So, while it is possible, it is not the solution with the lowest development effort. Azure AI Vision Spatial Analysis is used to ingest streaming video from cameras, extract insights, and generate events to be used by other systems.
+
 [What are Azure Cognitive Services? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/what-are-cognitive-services)
+
 [What is Computer Vision? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview)
+
 [What is Image Analysis? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview-image-analysis?tabs=3-2)
+
 [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
 
 Q:: =============================================  
@@ -3520,7 +3560,9 @@ ___
 
 The Azure AI Document Intelligence is a service that lets you build automated data processing software by using machine learning technology. It allows you to identify and extract text and key/value pairs.
 Azure AI Metrics Advisor uses AI to perform data monitoring and anomaly detection in time series data. Azure AI Immersive Reader is a tool that implements techniques to improve reading comprehension for new readers, language learners, and people with learning differences. Azure AI Search is a cloud search service to help you identify and explore relevant content at scale.
+
 [What are Azure Applied AI Services? - Azure Applied AI Services | Microsoft Learn](https://learn.microsoft.com/azure/applied-ai-services/what-are-applied-ai-services)
+
 [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
 
 Q:: =============================================  
@@ -3552,6 +3594,7 @@ ___
 ###### 3. W-2
 
 Except for meeting minutes and time sheets, all the other models are prebuilt models in Azure AI Document Intelligence. Meeting minutes and time sheets must be added to Azure AI Document Intelligence. as custom models.
+
 [Use financial, , and tax models - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/use-prebuilt-form-recognizer-models/4-use-financial-id-tax-models)
 
 Q:: =============================================  
@@ -3579,7 +3622,9 @@ ___
 
 Azure AI Vision is the only service which can achieve the desired result.
 Azure AI Custom Vision and Azure AI Face do not offer OCR. Azure AI Document Intelligence is designed for documents, but not images.
+
 [OCR - Optical Character Recognition - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview-ocr)
+
 [Read Text in Images and Documents with the Computer Vision Service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/read-text-images-documents-with-computer-vision-service/)
 
 Q:: =============================================  
@@ -3606,7 +3651,9 @@ ___
 ###### 1. Azure AI Document Intelligence
 
 Azure AI Document Intelligence is designed to work with documents such as receipts, as it offers prebuilt models for extracting information from these kinds of documents.
+
 [OCR - Optical Character Recognition - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview-ocr)
+
 [Extract data from forms with Form Recognizer - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/work-form-recognizer/)
 
 Q:: =============================================  
@@ -3633,6 +3680,7 @@ ___
 ###### 1. Azure AI Foundry
 
 Azure AI Foundry is the most appropriate platform because it offers specialized tools for deploying models, connecting data, and managing AI resources. Azure AI Content Understanding focuses on multimodal content analysis and does not support custom model development. Azure AI Speech is designed for speech-related tasks and lacks the necessary features for connecting or operationalizing generative AI models. Azure AI Vision is tailored for prebuilt computer vision models and does not meet the requirements for AI model development.
+
 [Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/3-azure-ai-services)
 
 Q:: =============================================  
@@ -3664,6 +3712,7 @@ ___
 ###### 3. Integrate Azure AI Foundry Content Safety APIs.
 
 Conducting red team exercises helps identify vulnerabilities and improve the model's robustness against manipulation. This enhances the security and reliability of the AI system. Documenting the model's decision-making logic provides transparency and supports explainability requirements. This aligns with Responsible AI principles and addresses legal implications. Enabling users to provide feedback on every response may overwhelm users and does not directly address the goal of ensuring content safety. Integrating Azure AI Foundry Content Safety APIs helps identify and filter harmful content in real-time, ensuring the safety and appropriateness of the model's outputs. Training the model exclusively on synthetic data may limit its ability to generate realistic and contextually appropriate responses, reducing its effectiveness.
+
 [What is Content Safety - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/responsible-content-safety/2-what-is-content-safety)
 
 [Azure AI Foundry - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/4-azure-ai-foundry)
@@ -3691,7 +3740,9 @@ ___
 ###### 1. Content Safety
 
 Content Safety is the only listed service that provides the ability to automatically flag content in text or images as harmful. Content Safety recognizes four distinct categories of objectionable content: Hate and fairness, sexual, violence, and self-harm.
+
 [Harm categories in Azure AI Content Safety - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/content-safety/concepts/harm-categories?tabs=warning)
+
 [What are Azure AI services? - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/what-are-ai-services)
 
 Q:: =============================================  
@@ -3721,7 +3772,9 @@ ___
 ###### 1. Content Safety
 
 Content Safety jailbreak risk detection recognizes four different classes of jailbreak attacks: Attempt to change system rules, embedding a conversation mockup to confuse the model , role-play, and encoding attacks. These can be used in LLM-based applications to prevent jailbreak attacks. All the other services listed are designed for different purposes.
+
 [Jailbreak risk detection in Azure AI Content Safety - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/content-safety/concepts/jailbreak-detection)
+
 [What are Azure AI services? - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/what-are-ai-services)
 
 Q:: =============================================  
@@ -3748,6 +3801,7 @@ ___
 ###### 1. Implement Azure AI Foundry Content Safety.
 
 Azure Content Safety is the most suitable solution because it analyzes user inputs and reference documents to detect and block harmful or policy-violating content, ensuring generated educational materials are safe and compliant. Azure AI Services Text Analytics evaluates sentiment but does not address content safety or compliance. Training a custom model improves content relevance but does not safeguard against inappropriate or misleading outputs. Azure Translator enhances accessibility through multilingual support but does not address the core issue of ensuring content safety and compliance.
+
 [What is Content Safety - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/responsible-content-safety/2-what-is-content-safety)
 
 Q:: =============================================  
@@ -3776,6 +3830,7 @@ ___
 ###### 2. Enable built-in blocklists in Content Safety Studio.
 
 Enabling built-in blocklists in Content Safety Studio is essential as it provides predefined terms to effectively flag harmful content such as profanities and hate speech. Configuring harmful patterns using the Custom Categories API allows for tailored moderation by defining specific patterns that align with organizational needs. Enabling encryption at rest with customer-managed keys enhances data security but does not contribute to the detection or restriction of harmful text content. Using the Analyze Image API focuses on image moderation and is not applicable to the task of moderating text content.
+
 [Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/3-azure-ai-services)
 
 [Use the Azure Document Intelligence Studio - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/9-form-recognizer-studio)
@@ -3804,7 +3859,9 @@ ___
 
 Person and Address will detect names and addresses.
 PersonType will also remove job roles. IP will also remove IP addresses.
+
 [Entity categories recognized by Personally Identifiable Information (detection) in Azure Cognitive Service for Language - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/personally-identifiable-information/concepts/entity-categories)
+
 [Publish and use a Language Understanding app - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/publish-use-language-understand-app/)
 
 Q:: =============================================  
@@ -3831,7 +3888,9 @@ ___
 ###### 1. Person
 
 The Person category detects names of people in the PII detection feature. The PhoneNumber category detects phone numbers, the age category detects people’s ages, and the DateTime detects dates and time values.
+
 [Entity categories recognized by Personally Identifiable Information (detection) in Azure Cognitive Service for Language - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/personally-identifiable-information/concepts/entity-categories)
+
 [Publish and use a Language Understanding app - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/publish-use-language-understand-app/)
 
 Q:: =============================================  
@@ -3858,7 +3917,9 @@ ___
 ###### 1. Azure Storage
 
 Azure Storage is the only storage provider that can be used by default for batch transcription.
+
 [Create a batch transcription - Speech service - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/batch-transcription-create?pivots=speech-cli)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 Q:: =============================================  
@@ -3887,7 +3948,9 @@ ___
 ###### 1. the List entity using Strict mode
 
 The List entity is made up of a list of phrases that will guide the engine on how to match the text. When an entity has an  of type List and is in Strict mode, the engine will only match if the text in the slot appears in the list.
+
 [Pattern Matching overview - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/pattern-matching-overview#types-of-entities)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 Q:: =============================================  
@@ -3913,7 +3976,9 @@ ___
 ###### 1. between 0 and 100
 
 A BLEU score is a number between zero and 100. A score of zero indicates a low-quality translation, where nothing in the translation matches the reference. A score of 100 indicates a perfect translation that is identical to the reference. It is unnecessary to attain a score of 100. A BLEU score between 40 and 60 indicates a high-quality translation.
+
 [Custom Translator for beginners - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/translator/custom-translator/beginners-guide#what-is-a-bleu-score)
+
 [Translate text with the Translator service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -3941,7 +4006,9 @@ ___
 
 Precision measures how precise/accurate a model is. It is the ratio between the correctly identified positives (true positives) and all identified positives. The precision metric reveals how many of the predicted classes are correctly labeled.
 Recall measures the model's ability to predict actual positive classes. F1 score is a function of precision and recall. BLEU is from the Azure AI Translator service.
+
 [Conversational Language Understanding evaluation metrics - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/conversational-language-understanding/concepts/evaluation-metrics)
+
 [Build a Language Understanding model - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-language-understanding-model/)
 
 Q:: =============================================  
@@ -3974,7 +4041,9 @@ ___
 ###### 3. when you need to provide the same answer to a request, question, or command
 
 Question answering only works with static information, not with dynamic information. In addition, it will always provide the same answer to the same question.
+
 [What is question answering? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/overview)
+
 [Build a question answering solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-qna-solution-qna-maker/)
 
 Q:: =============================================  
@@ -4001,7 +4070,9 @@ ___
 ###### 1. formatted text, URLs, and bulleted and numbered lists only
 
 Currently, the extraction of images within documents that are uploaded to question answering for extraction is unsupported, as images need to be reachable via a public URL.
+
 [Import document format guidelines - question answering - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/reference/document-format-guidelines)
+
 [Build a question answering solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-qna-solution-qna-maker/)
 
 Q:: =============================================  
@@ -4027,7 +4098,9 @@ ___
 ###### 1. object detection
 
 Object detection returns the coordinates in an image where the applied label(s) can be found, while image classification applies one or more labels to an entire image.
+
 [What is Custom Vision? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/custom-vision-service/overview)
+
 [Detect objects in images - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/detect-objects-images/)
 
 Q:: =============================================  
@@ -4054,6 +4127,7 @@ ___
 ###### 1. Evaluate precision and recall metrics.
 
 Evaluating precision and recall metrics is the most effective way to assess the performance of an object detection model, as these metrics provide a detailed understanding of its accuracy and ability to identify objects correctly. Deploying the model without testing bypasses the critical step of ensuring its reliability and effectiveness. Sourcing new images for testing isn't necessary with a dataset already containing validation images. Retraining the model with a new dataset focuses on improving data quality rather than assessing the current model's performance, making it unsuitable for the given objective.
+
 [Test and retrain a Custom Vision model - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/test-your-model)
 
 Q:: =============================================  
@@ -4080,8 +4154,11 @@ ___
 ###### 1. Compact domain
 
 Only Compact domain is correct. The Azure AI Custom Vision service only exports compact domains, and the models generated by compact domains are optimized for the constraints of real-time classification on mobile devices.
+
 [Select a domain for a Custom Vision project - Computer Vision - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/custom-vision-service/select-domain)
+
 [Export your model to mobile - Custom Vision Service - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/custom-vision-service/export-your-model)
+
 [Classify images - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/classify-images/)
 
 Q:: =============================================  
@@ -4108,6 +4185,7 @@ ___
 
 You need to upload the video, get the video index, and get the thumbnail for each keyframe. Three API calls need to be done.
 Uploading the video and then downloading the ZIP file of the thumbnails is the path through the Azure portal. You need the index to know the correct parameters for the thumbnail request.
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -4137,7 +4215,9 @@ Only `name`, `description`, and `skills` are required.
 `cognitiveServices` is used for billable skills that call Cognitive Services APIs.
 `knowledgeStore` specifies an Azure Storage account and the settings for projecting the skillset output into tables, blobs, and files in Azure Storage.
 `encryptionKey` specifies an Azure key vault and customer-managed keys used to encrypt sensitive content (descriptions, connection strings, keys) in a skillset definition.
+
 [Create a skillset - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/cognitive-search-defining-skillset#add-a-skillset-definition)
+
 [Create a custom skill for Azure Cognitive Search - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-enrichment-pipeline-azure-cognitive-search/)
 
 Q:: =============================================  
@@ -4166,7 +4246,9 @@ ___
 ###### 1. `Microsoft.Skills.Custom.WebApiSkill`
 
 `Microsoft.Skills.Custom.WebApiSkill` allows the extensibility of an AI enrichment pipeline by making an HTTP call to a custom web API.
+
 [Built-in skills - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/cognitive-search-predefined-skills)
+
 [Create a custom skill for Azure Cognitive Search - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-enrichment-pipeline-azure-cognitive-search/)
 
 Q:: =============================================  
@@ -4193,7 +4275,9 @@ ___
 ###### 1. `Microsoft.Skills.Text.V3.EntityLinkingSkill`
 
 `Microsoft.Skills.Text.V3.EntityLinkingSkill` uses a pretrained model to generate links for recognized entities to articles in Wikipedia.
+
 [Built-in skills – Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/cognitive-search-predefined-skills)
+
 [Create an Azure Cognitive Search solution – Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -4220,7 +4304,9 @@ ___
 ###### 1. `Microsoft.Skills.Util.DocumentExtractionSkill`
 
 `Microsoft.Skills.Util.DocumentExtractionSkill` is the built-in skill used to extract content from a file within the enrichment pipeline.
+
 [Built-in skills – Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/cognitive-search-predefined-skills)
+
 [Create an Azure Cognitive Search solution – Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -4247,6 +4333,7 @@ ___
 ###### 1. Use prebuilt models for Health Insurance Card and  Document.
 
 Prebuilt models for Health Insurance Card and  Document in Microsoft Azure AI Document Intelligence are the optimal choice for extracting structured data from these forms because they are specifically designed for this purpose, ensuring accuracy and efficiency. Training a composed model introduces unnecessary complexity when prebuilt models are available for these document types. Azure OCR focuses on text extraction without contextual understanding, making it unsuitable for structured data extraction. The Layout model supports key-value pair extraction but lacks the specificity required for extracting specific fields from health insurance cards and identity documents.
+
 [Understand AI Document Intelligence - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/plan-form-recognizer-solution/2-understand)
 
 [Get started with Azure Document Intelligence](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/3-get-started)
@@ -4275,6 +4362,7 @@ ___
 ###### 1. Azure Document Intelligence layout model
 
 Azure Document Intelligence layout model is the most appropriate solution because it is specifically designed to extract text, tables, and selection marks while preserving the document's structure, which is essential for processing multi-page PDF documents. Azure AI Vision OCR is limited to text extraction from images and does not support advanced features like table or selection mark recognition. The general model supports entity extraction but does not focus on maintaining the document's structure. The read model is limited to extracting printed and handwritten text and does not include the advanced capabilities required for this scenario.
+
 [What is Azure Document Intelligence? - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/2-what-form-recognizer)
 
 [Use the General Document, Read, and Layout models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/3-use-general-document-read-layout-models)
@@ -4303,6 +4391,7 @@ ___
 ###### 1. Azure AI Content Understanding
 
 Azure AI Content Understanding is the most suitable solution as it offers transcription, sentiment classification, and summary generation capabilities for audio recordings, addressing all requirements of the scenario. Azure AI Document Intelligence is not appropriate because it processes text-based documents and lacks audio-related functionalities. Azure AI Language offers sentiment analysis and summaries but is unable to transcribe audio. Azure AI Speech can transcribe the audio but lacks other required functionality.
+
 [Create a multimodal analysis solution with Azure AI Content Understanding - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai/)
 
 Q:: =============================================  
@@ -4331,7 +4420,9 @@ ___
 ###### 1. positive
 
 If there is at least one positive sentence in the document, and the rest of the document is neutral, then the document label is positive.
+
 [How to perform sentiment analysis and opinion mining - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/sentiment-opinion-mining/how-to/call-api)
+
 [Extract insights from text with the Language service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/extract-insights-text-with-text-analytics-service/)
 
 Q:: =============================================  
@@ -4358,7 +4449,9 @@ ___
 
 Be liberal is correct. Any in-domain human translation is better than machine translation. Add and remove documents as you go and try to improve the Bilingual Evaluation Understudy (BLEU) score.
 Be strict is incorrect. Compose them to be optimally representative of what you are going to translate in the future. Be restrictive is also incorrect. A phrase dictionary is case-sensitive, and any word or phrase listed is translated in the way you specify. In many cases, it is better to not use a phrase dictionary and let the system learn.
+
 [Custom Translator for beginners - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/translator/custom-translator/beginners-guide#what-should-i-use-for-training-material)
+
 [Translate text with the Translator service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -4385,7 +4478,9 @@ ___
 ###### 2. Connect to question answering projects that are in the same Azure AI Language service resource as your orchestration workflow.
 
 Adding entities to your orchestration workflow is not allowed. Entities are mutually exclusive within an orchestration workflow.
+
 [Frequently Asked Questions for orchestration projects - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/orchestration-workflow/faq)
+
 [Build a Language Understanding model - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-language-understanding-model/)
 
 Q:: =============================================  
@@ -4415,7 +4510,9 @@ ___
 ###### 2. the size and the number of knowledge bases
 
 The throughput, the size, and the number of knowledge bases affect the pricing tier, whereas the other parameters do not affect pricing.
+
 [Azure resources – question answering – Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/concepts/azure-resources)
+
 [Build a question answering solution – Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-qna-solution-qna-maker/)
 
 Q:: =============================================  
@@ -4441,6 +4538,7 @@ ___
 
 Azure AI Document Intelligence is capable of automatically extracting information from given documents by using machine learning.
 Azure AI Metrics Advisor, Azure Application Insights, and Azure AI Language do not allow you to extract specific data from scanned receipts.
+
 [Use prebuilt Form Recognizer models - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/use-prebuilt-form-recognizer-models/)
 
 Q:: =============================================  
@@ -4467,7 +4565,9 @@ ___
 ###### 1. Azure AI Video Indexer
 
 The only service that can customize the language model for a solution based on gaining insights from videos in Azure AI Video Indexer.
+
 [Customize a Language model in Azure Video Indexer - Azure - Azure Video Indexer | Microsoft Learn](https://learn.microsoft.com/azure/azure-video-indexer/customize-language-model-overview)
+
 [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
 
 Q:: =============================================  
@@ -4494,7 +4594,9 @@ ___
 
 You can use disconnected containers to host Language Understanding on-premises.
 There is no virtual machine set up to run a Language Understanding instance and a standard instance still has Language Understanding running in the cloud.
+
 [Use Docker containers in disconnected environments - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/containers/disconnected-containers)
+
 [Deploy cognitive services in containers - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/investigate-container-for-use-cognitive-services/)
 
 Q:: =============================================  
@@ -4524,7 +4626,9 @@ ___
 
 You can use a single or multi-service subscription keys to authenticate to Azure AI Services. You can also authenticate to Azure AI Services by using a Microsoft Entra  service principal and role-based access control (RBAC).
 Azure AI Services do not support authentication by using SAML tokens or Kerberos.
+
 [Authentication in Azure Cognitive Services - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/authentication?tabs=powershell#authenticate-with-an-access-token)
+
 [Secure Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/secure-cognitive-services/)
 
 Q:: =============================================  
@@ -4553,7 +4657,9 @@ ___
 ###### 1. Grant access to an internet IP range.
 
 If you enable the firewall for the Azure AI Services account, you need to allow network access to the service. You can achieve this by either allowing access from a specific virtual network or adding an IP range to the firewall rules. In this situation, the app is deployed to the internet, and you can provide specific internet hosts access by adding an IP or range of IPs to the firewall rules.
+
 [Configure Virtual Networks for Azure Cognitive Services - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/cognitive-services-virtual-networks?context=%2Fazure%2Fcognitive-services%2Flanguage-service%2Fcontext%2Fcontext&tabs=portal)
+
 [Secure Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/secure-cognitive-services/)
 
 Q:: =============================================  
@@ -4583,7 +4689,9 @@ ___
 ###### 2. an Azure Storage account
 
 The prerequisites to enable diagnostic logging are to have an Azure Storage resource that retains diagnostic logs for policy audit, static analysis, or backup. A Log Analytics resource provides a flexible log search and analytics tool that allows for analysis of raw logs generated by an Azure resource.
+
 [Diagnostic logging - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/diagnostic-logging)
+
 [Monitor Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/monitor-cognitive-services/)
 
 Q:: =============================================  
@@ -4613,7 +4721,9 @@ ___
 
 Mismatch means that the wrong API key has been used. If you have provided an API key or endpoint for a different kind of Azure AI Services resource, you find your API key and service region in the Azure portal, in the Keys and Endpoint section for your Azure AI Services resource.
 If the API key is invalid, you must confirm that the API key is for the correct region. If the API key has exceeded the quota, then you can either upgrade your pricing tier or wait for an additional quota to become available. Find your tier in the Azure portal, in the Pricing Tier section of your Azure AI Service resource. The mismatch error would not be generated if the resource was offline.
+
 [Cognitive Services containers FAQ - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/containers/container-faq)
+
 [Deploy cognitive services in containers - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/investigate-container-for-use-cognitive-services/)
 
 Q:: =============================================  
@@ -4675,6 +4785,7 @@ ___
 ###### 1. Add custom functions.
 
 Adding custom functions enables the AI agent to dynamically execute specific actions such as scheduling meetings and sending notifications, making it the most suitable choice for the scenario. Configuring static templates does not provide the flexibility needed for dynamic action execution, limiting its effectiveness. Default model capabilities lack the ability to perform specific programmatic actions, making them insufficient for the task. Using a pre-trained chatbot framework without customization fails to address the specific requirements for executing actions programmatically, reducing its applicability in this context.
+
 [Integrate custom tools into your agent - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
 
 Q:: =============================================  
@@ -4704,6 +4815,7 @@ ___
 ###### 2. Configure Azure Functions in the agent configuration file.
 
 Adding Bing search tools enables the agent to retrieve relevant information from external sources, enhancing its ability to respond accurately to user queries. Configuring Azure Functions allows the agent to execute specific actions programmatically, which is crucial for automating workflows based on user inputs. Deploying a containerized image is not necessary to configure the agent's capabilities. Setting up a SQL database is not required for configuring the agent's interaction capabilities, as it does not directly contribute to the goal of automating customer support workflows. Using Computer Vision is unrelated to the task of configuring the agent for customer support workflows, as it focuses on image analysis rather than interaction with external data sources.
+
 [Develop an AI agent with Azure AI Foundry Agent Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
 
 Q:: =============================================  
@@ -4736,6 +4848,7 @@ ___
 ###### 3. Configure the Bing Search tool.
 
 Defining tools for API access ensures the agent can interact with external APIs effectively. Deploying the agent using Azure SDK makes it operational within the Azure environment, enabling API interactions. Configuring the Bing Search tool enables the agent to access real-time data. Setting up an Azure AI Search resource is optional and does not directly contribute to enabling API interaction for the agent. Manually parsing API responses is unnecessary because Azure AI Foundry Agent Service automates tool calling and response handling. Using Blob Storage for conversation state is unnecessary because Azure AI Foundry Agent Service manages conversation state through threads.
+
 [Develop an AI agent with Azure AI Foundry Agent Service - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
 
 Q:: =============================================  
@@ -4763,6 +4876,7 @@ ___
 
 As your use of Azure OpenAI evolves, and you start to build and integrate with applications, you might want to manually control model updates so that you can first test and validate whether model performance remains consistent for a use case before performing an upgrade.
 When you select a specific model version for a deployment, this version will remain selected until you either choose to manually update it, or once you reach the retirement date of the model. When the retirement date is reached, the model will upgrade to the default version automatically at the time of retirement.
+
 [Azure OpenAI Service working with models - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/how-to/working-with-models?tabs=powershell)
 
 Q:: =============================================  
@@ -4791,6 +4905,7 @@ ___
 ###### 1. the result element
 
 The result from the initial request does not immediately return the results of the image generation process. Instead, the response includes an **operation-location** header with a URL for a callback service that your application code can poll until the results of the image generation are ready. The **result** element includes a collection of **url** elements, each of which references a PNG image file generated from the prompt.
+
 [Use the Azure OpenAI REST API to consume DALL-E models - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/generate-images-azure-openai/4-dall-e-rest-api)
 
 Q:: =============================================  
@@ -4821,6 +4936,7 @@ ___
 ###### 1. Strictness
 
 The Strictness parameter sets the threshold to categorize documents as relevant to your queries. Raising the Strictness parameter value means a higher threshold for relevance and filters out more less-relevant documents for responses. Retrieved documents specifies the number of top-scoring documents from your data index used to generate responses. Content data specifies the fields in your index that contain the main text content of each document. File name specifies the field in your index that contains the original file name of each document.
+
 [Using your data with Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 
 Q:: =============================================  
@@ -4878,6 +4994,7 @@ ___
 ###### 1. Enable semantic search.
 
 Enabling semantic search enhances the precision and relevance of search results by interpreting the meaning behind query terms, making it the most suitable solution for improving response accuracy in this scenario. Increasing chunk size impacts data processing but does not directly affect the accuracy of retrieved data. Deploying an additional Azure OpenAI model does not address the specific need for improving data retrieval accuracy from the search index. Using keyword search lacks semantic capabilities, which are essential for achieving the desired level of accuracy.
+
 [Make your data searchable - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/3-search-data)
 
 Q:: =============================================  
@@ -4904,6 +5021,7 @@ ___
 ###### 1. Enable vector search.
 
 Enabling vector search enhances the relevance and efficiency of data retrieval, meeting the stated goal. Deploying an additional model does not address the need for efficient data retrieval, making it unsuitable. Increasing chunk size affects data processing but does not directly improve retrieval efficiency. Using keyword-based search lacks semantic capabilities, which are critical for achieving the desired outcome.
+
 [Make your data searchable - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/3-search-data)
 
 [Azure OpenAI On Your Data - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot)
@@ -4937,6 +5055,7 @@ ___
 ###### 3. Use prompt engineering to refine the model's output.
 
 To optimize the generative AI solution for performance and ensure its responses align with the organization's tone and style, it is essential to set up monitoring in Azure to continuously evaluate the model's performance and resource usage. Fine-tuning the model with customer feedback data customizes the solution to meet specific organizational requirements, ensuring alignment with tone and style. Additionally, using prompt engineering refines the model's responses by structuring input effectively, enhancing the quality and relevance of the generated content. Deploying the model on edge devices and enabling support for multiple languages do not directly address the stated goals, as they focus on deployment strategy and additional features rather than performance optimization or alignment with tone and style.
+
 [Fine-tune a language model with Azure AI Foundry - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/finetune-model-copilot-ai-studio/)
 
 Q:: =============================================  
@@ -4963,6 +5082,7 @@ ___
 ###### 1. Set strictness to a higher value.
 
 Setting strictness to a higher value ensures that only the most relevant documents are retrieved, effectively prioritizing relevance during data retrieval. Enabling hybrid search mode combines different search methods but does not specifically focus on document relevance. Increasing the number of retrieved documents may include less relevant data, which contradicts the goal of prioritizing relevance. Reducing chunk size impacts data granularity but does not directly influence the prioritization of document relevance.
+
 [Azure OpenAI On Your Data - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-foundry/openai/concepts/use-your-data?tabs=ai-search%2Ccopilot)
 
 Q:: =============================================  
@@ -4989,6 +5109,7 @@ ___
 ###### 1. Use Retrieval-Augmented Generation (RAG) with Azure AI Search for grounding data.
 
 Using Retrieval-Augmented Generation (RAG) with Azure AI Search ensures the model provides accurate and contextually relevant summaries by incorporating domain-specific data. Deploying a model without grounding data relies solely on pre-trained capabilities, resulting in less accurate outputs. Fine-tuning a model without an orchestration layer fails to dynamically integrate real-time contextual data, limiting its effectiveness, and is significantly more expensive. Applying prompt engineering without external data sources improves response quality but does not address the need for domain-specific grounding.
+
 [Understand how to ground your language model - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/2-ground-language-model)
 
 Q:: =============================================  
@@ -5018,6 +5139,7 @@ ___
 ###### 2. Use the prebuilt Invoice model in Azure AI Document Intelligence.
 
 Converting the documents into plain text results in the loss of structural information, which is essential for extracting meaningful data. Training a custom model using labeled datasets in Azure AI Document Intelligence enables accurate extraction of data from unique forms that do not conform to standard templates. The General Document model is deprecated and not recommended for use in new solutions, making it unsuitable for this task. The Layout model can extract text and structure but is not optimized for specific document types like invoices or receipts, which limits its effectiveness for this scenario. The prebuilt Invoice model in Azure AI Document Intelligence is specifically designed to extract key information from invoices, making it an appropriate choice for this task.
+
 [Get started with Azure Document Intelligence - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/3-get-started)
 
 [Choose a model type - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/plan-form-recognizer-solution/4-choose-model-type)
@@ -5051,7 +5173,9 @@ ___
 ###### 3. Transliterate
 
 Apart from translation, the following features are part of Translator: Transliterate, Detect, Dictionary lookup, and Dictionary example.
+
 [What is Microsoft Azure Cognitive Services Text Translation? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/translator/text-translation-overview)
+
 [Translate text with the Translator service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -5079,7 +5203,9 @@ ___
 ###### 1. 40 to 59
 
 between 40 and 60 indicates a high-quality translation..
+
 [Key terms - Custom Translator - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/translator/custom-translator/key-terms)
+
 [Translate text with the Translator service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -5107,7 +5233,9 @@ ___
 Text-independent verification means that speakers can speak in everyday language in enrollment and verification phases.
 Text-dependent verification means that speakers need to choose the same passphrase to use during both enrollment and verification phases. This is the voice profile that should be used when configuring a voice profile for the app.
 Speaker identification helps you determine an unknown speaker’s identity within a group of enrolled speakers.
+
 [Speaker recognition overview - Speech service - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/speaker-recognition-overview)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 Q:: =============================================  
@@ -5134,7 +5262,9 @@ ___
 ###### 1. custom speech-to-text
 
 The custom speech-to-text model is correct, as you need to adapt the model because a factory floor might have ambient noise, which the model should be trained on.
+
 [Speech-to-text FAQ - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/faq-stt)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 Q:: =============================================  
@@ -5161,6 +5291,7 @@ ___
 ###### 1. Publish the model and retrieve its Prediction URL and key.
 
 Publishing the trained iteration and retrieving its Prediction URL and key is the appropriate action to make the model accessible for programmatic predictions in a production environment. Exporting the model for local use is not aligned with the goal of leveraging the Microsoft Azure Custom Vision Prediction API. Re-training the model is unnecessary as the current performance metrics are satisfactory and does not contribute to the deployment process. Creating a new Azure resource is unrelated to the task of deploying the trained model and does not address the stated goal.
+
 [Get started with Azure Document Intelligence - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/3-get-started)
 
 [Create a client application that uses an image generation model - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/4-dall-e-rest-api)
@@ -5195,6 +5326,7 @@ ___
 ###### 3. Use Smart Labeler to suggest tags for untagged images.
 
 To optimize the labeling process and improve the model's accuracy, it is essential to review and confirm suggested tags to ensure data reliability. Prioritizing tags with high prediction uncertainty helps address ambiguous cases effectively, while using the Smart Labeler streamlines the process by leveraging the model's existing capabilities. Deleting previously tagged images would result in the loss of valuable data, training the model without reviewing tags could propagate errors, and manually labeling all images from scratch is inefficient and disregards the benefits of automation.
+
 [Use the Azure Document Intelligence Studio - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/work-form-recognizer/9-form-recognizer-studio)
 
 [Enrich a search index in Azure AI Search with custom classes and Azure AI Language - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/enrich-search-index-using-language-studio/03-enrich-cognitive-search-index-custom-classes)
@@ -5224,7 +5356,9 @@ ___
 ###### 1. multiclass
 
 Multilabel classification applies any number of tags to an image (zero or more), while multiclass classification sorts images into single categories (every image you submit will be sorted into the most likely tag). Therefore, using multilabel means that one image can be tagged as both “cat” and “dog” at the same time, although it should be either/or.
+
 [Quickstart: Build an image classification model with the Custom Vision portal - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)
+
 [Classify images - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/classify-images/)
 
 Q:: =============================================  
@@ -5249,7 +5383,9 @@ ___
 
 You should use the key phrase extraction endpoint.
 The custom NER endpoint will not do key phrase extraction and the Azure AI Vision API can be used to process PDF files but not to extract key phrase detection.
+
 [What is key phrase extraction in Azure Cognitive Service for Language? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/key-phrase-extraction/overview)
+
 [Extract insights from text with the Language service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/extract-insights-text-with-text-analytics-service/)
 
 Q:: =============================================  
@@ -5278,8 +5414,11 @@ ___
 
 `opinionMining=true` will add aspect-based sentiment analysis, which in turn will make the sentiment more granular so that positive and negative in a single sentence can be returned.
 `loggingOptOut=true` will opt out of logging and `StringIndexType=TextElements_v8` will set the returned offset and length values to correspond with `TextElements`.
+
 [Text Analysis Runtime - Analyze Text - REST API (Azure Cognitive Services - Language) | Microsoft Learn](https://learn.microsoft.com/rest/api/language/text-analysis-runtime/analyze-text?view=rest-language-2023-04-01&tabs=HTTP)
+
 [How to perform sentiment analysis and opinion mining - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/sentiment-opinion-mining/how-to/call-api)
+
 [Extract insights from text with the Language service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/extract-insights-text-with-text-analytics-service/)
 
 Q:: =============================================  
@@ -5307,8 +5446,11 @@ ___
 ###### 1. standard and advanced only
 
 Both standard and advanced are from CLU. Deterministic is a method from Language Understanding.
+
 [How to train and evaluate models in Conversational Language Understanding - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/conversational-language-understanding/how-to/train-model?tabs=language-studio#training-modes)
+
 [How to use train and test - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/luis/how-to/train-test#change-deterministic-training-settings-using-the-version-settings-api)
+
 [Build a Language Understanding model - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-language-understanding-model/)
 
 Q:: =============================================  
@@ -5340,7 +5482,9 @@ ___
 
 Active learning suggestions are not in real time. There is an approximate delay of 30 minutes before suggestions show on this pane. This delay balances the high cost involved in real-time updates to the index and service performance.
 Active learning is turned on by default. You can use active learning for this instead of manually logging the questions and adding them.
+
 [Enrich your project with active learning - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/tutorials/active-learning)
+
 [Build a question answering solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-qna-solution-qna-maker/)
 
 Q:: =============================================  
@@ -5375,6 +5519,7 @@ ___
 ###### 4. TXT
 
 Currently only TXT, MD, HTML, PDF, Microsoft Word, and PowerPoint files can be used and are supported using the “Using your data” feature in Azure OpenAI. ZIP and XML files are not supported.
+
 [Using your data with Azure OpenAI Service - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 
 Q:: =============================================  
@@ -5404,7 +5549,9 @@ ___
 
 The service cannot process password-protected files, and this can cause the service a processing failure for some of the files. Although file size and number of pages can cause failures, the limit for the S0 tier is 500 MB and 2,000 pages.
 The S0 tier is sufficient for the file characteristics mentioned.
+
 [Invoice data extraction – Form Recognizer - Azure Applied AI Services | Microsoft Learn](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/concept-invoice?view=form-recog-3.0.0)
+
 [Extract data from forms with Form Recognizer - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/work-form-recognizer/)
 
 Q:: =============================================  
@@ -5439,6 +5586,7 @@ ___
 The prebuilt-read model supports PDF, Excel, and Word files.
 TXT, JSON, and XML are unsupported by the prebuilt-read model of Azure AI Document Intelligence
 [OCR for documents - Form Recognizer - Azure Applied AI Services | Microsoft Learn](https://learn.microsoft.com/azure/applied-ai-services/form-recognizer/concept-read?view=form-recog-3.0.0)
+
 [Extract data from forms with Form Recognizer - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/work-form-recognizer/)
 
 Q:: =============================================  
@@ -5471,6 +5619,7 @@ ___
 ###### 3. Use text-based PDF files.
 
 Meeting input requirements, such as file format and resolution, is essential for optimal data extraction performance. Text-embedded PDFs eliminate errors in character recognition, enhancing the accuracy of data extraction and optimizing the OCR process for structured data extraction. The Microsoft Invoice model is specifically trained to extract structured data from invoices, including fields like invoice number and total amount, directly addressing the requirement for structured data extraction from invoices. Low-resolution images reduce the accuracy of data extraction, making them unsuitable for this task. The Microsoft Business Card model is tailored for extracting data from business cards, not invoices, and does not align with the goal of extracting structured data from invoices. The Microsoft Read model is designed for general text extraction and does not specialize in structured data extraction from invoices, failing to meet the specific requirements of the task.
+
 [Understand prebuilt models - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/use-prebuilt-form-recognizer-models/2-understand-prebuilt-models)
 
 [Understand AI Document Intelligence - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/plan-form-recognizer-solution/2-understand)
@@ -5499,6 +5648,7 @@ ___
 ###### 1. GPT-4
 
 Azure AI Vision is designed for analyzing visual content and does not support text generation, making it unsuitable for the scenario. Code-Davinci-003 is optimized for code generation tasks and lacks the capabilities required for text generation, which disqualifies it as a viable option. DALL-E specializes in generating images from textual descriptions and does not meet the requirement for text generation. GPT-4, on the other hand, is specifically designed for generating detailed and contextually accurate text responses, making it the most appropriate choice for the given requirement.
+
 [Azure AI services - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/3-azure-ai-services)
 
 [Plan and prepare to develop AI solutions on Azure - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/get-started-openai/2-access-azure-openai)
@@ -5527,7 +5677,9 @@ ___
 ###### 1. `az cognitiveservices account show --name myresource --resource-group cognitive-services-resource-group `
 
 As you need to provide the name and the resource group for your Cognitive Service account to retrieve the endpoint amongst other information for the resource, `az cognitiveservices account show --name myresource --resource-group cognitive-services-resource-group` is the only valid command.
+
 [az cognitiveservices account | Microsoft Learn](https://learn.microsoft.com/cli/azure/cognitiveservices/account?view=azure-cli-latest#az-cognitiveservices-account-show)
+
 [Create and consume Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-manage-cognitive-services/)
 
 Q:: =============================================  
@@ -5556,7 +5708,9 @@ ___
 ###### 1. Grant access to a specific virtual network.
 
 If you enable the firewall for the Azure AI Services account, you need to allow network access to the service. You can achieve this by either allowing access from a specific virtual network or adding an IP range to the firewall rules. In this situation, the app is deployed to a virtual machine in Azure, which resides in a virtual network. You can provide access to virtual networks in Azure to access specific service endpoints.
+
 [Configure Virtual Networks for Azure Cognitive Services - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/cognitive-services-virtual-networks?context=%2Fazure%2Fcognitive-services%2Fcustom-vision-service%2Fcontext%2Fcontext&tabs=portal)
+
 [Secure Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/secure-cognitive-services/)
 
 Q:: =============================================  
@@ -5588,7 +5742,9 @@ ___
 
 With a managed identity, the rotation of the secrets (certificates) is done automatically.
 You still need to rotate secrets by using the key vault, and you cannot create secrets that never expire from the portal. It is not considered best practice to create one with PS1 or the CLI, and a certificate will also expire at some point.
+
 [Authentication in Azure Cognitive Services - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/authentication?tabs=powershell#authorize-access-to-managed-identities)
+
 [Secure Cognitive Services - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/secure-cognitive-services/)
 
 Q:: =============================================  
@@ -5615,6 +5771,7 @@ ___
 ###### 1. a false negative
 
 A false negative arises when the model fails to identify harmful content and returns a severity level of 0. There are four accuracy error types, and a false negative indicates incorrectly accepted content in the text.
+
 [Transparency Note and use cases for AI Content Safety - Azure AI services | Microsoft Learn](https://learn.microsoft.com/legal/cognitive-services/content-safety/transparency-note?context=%2Fazure%2Fai-services%2Fcontent-safety%2Fcontext%2Fcontext)
 
 Q:: =============================================  
@@ -5645,6 +5802,7 @@ ___
 ###### 2. Enable a system-assigned managed identity for the Content Safety instance.
 
 The only way to provide a Content Safety resource with access to images in Azure Blog Storage, is to enable a system-assigned managed identity and to assign the role Storage Blob Data Contributor/Owner/Reader to that managed identity. User-assigned managed identities are not permitted in that scenario.
+
 [Quickstart: Analyze image content - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/content-safety/quickstart-image?tabs=visual-studio%2Cwindows&pivots=programming-language-rest)
 
 Q:: =============================================  
@@ -5669,7 +5827,9 @@ ___
 
 Object detection is similar to image classification, but it returns the coordinates in an image where the applied label(s) can be found.
 Image description analyzes an image and generates a human-readable phrase that describes its contents. Image classification applies one or more labels to an entire image.
+
 [What is Custom Vision? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/custom-vision-service/overview)
+
 [Detect objects in images - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/detect-objects-images/)
 
 Q:: =============================================  
@@ -5700,7 +5860,9 @@ ___
 
 You need to remove the “&” character because sentences with special characters will be discarded.
 Kubernetes is highly specific and unknown to the model, so retraining the model is incorrect. The slate model is for clapper boards and digital patterns with color bars.
+
 [Customize a Language model in Azure Video Indexer - Azure - Azure Video Indexer | Microsoft Learn](https://learn.microsoft.com/azure/azure-video-indexer/customize-language-model-overview)
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -5730,7 +5892,9 @@ ___
 
 Azure OpenAI on your data enables developers to use supported AI chat models that can reference specific sources of information to ground the response. Adding this information allows the model to reference both the specific data provided and its pretrained knowledge to provide more effective responses. Azure OpenAI on your data utilizes the search ability of Azure AI Search to add the relevant data chunks to a prompt.
 Azure OpenAI on your data still uses a stateless API to connect to the model, which removes the requirement of training a custom model with your data and simplifies the interaction with the AI model. Cognitive Search first finds the useful information to answer the prompt, and Azure OpenAI forms the response based on that information.
+
 [Develop a RAG-based solution with your own data using Azure AI Foundry - Training | Microsoft Learn](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/)
+
 [What are Azure AI services? - Azure AI services | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/what-are-ai-services)
 
 Q:: =============================================  
@@ -5757,7 +5921,9 @@ ___
 ###### 1. `“queryType”: “full” `
 
 queryType “full” extends the default Simple query language by adding support for more operators and query types, such as wildcard, fuzzy, regex, and field-scoped queries.
+
 [Full text query and indexing engine architecture (Lucene) - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/search-lucene-query-architecture)
+
 [Create an Azure Cognitive Search solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -5784,7 +5950,9 @@ ___
 ###### 1. You are only interested in matching strictly what the user said.
 
 The only option is to use pattern matching over Language Understanding when you want to strictly match what a user said, as the incorrect options are only available in Language Understanding.
+
 [How to recognize intents with custom entity pattern matching - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/how-to-use-custom-entity-pattern-matching?tabs=jre%2Cwindows%2Cubuntu%2Cmaven&pivots=programming-language-csharp)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 Q:: =============================================  
@@ -5813,7 +5981,9 @@ ___
 ###### 1. Add utterances for languages that are performing poorly in the model.
 
 With CLU, there is no need to use multiple projects for a model. For example, you can train a model in English and query it in German. There is no project language, therefore, adding utterances for languages in the model that are performing poorly is the appropriate solution to increase performance.
+
 [Multilingual projects - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/conversational-language-understanding/concepts/multiple-languages)
+
 [Build a Language Understanding model - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-language-understanding-model/)
 
 Q:: =============================================  
@@ -5840,7 +6010,9 @@ ___
 ###### 1. the source language
 
 If the language of the content in the source document is known, it is recommended to specify the source language in the request to get a better translation.
+
 [Frequently asked questions - Document Translation - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/translator/document-translation/faq)
+
 [Translate text with the Translator service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/translate-text-with-translator-service/)
 
 Q:: =============================================  
@@ -5867,6 +6039,7 @@ ___
 ###### 1. Use Azure AI Content Understanding.
 
 Azure AI Content Understanding is the most appropriate solution as it is specifically designed to analyze images and extract structured data, such as product counts, directly addressing the requirements. Training a Custom Vision model would require additional effort and resources without providing any significant advantage over the existing capabilities of Azure AI Content Understanding. Prebuilt Azure AI Vision models can detect bounding boxes but does not offer the ability to count or extract structured data about products, making it unsuitable for this task. Azure AI Foundry GPT models can provide information based on provided data or information but is unable to achieve the desired result on its own.
+
 [Azure AI Content Understanding image solutions (preview) - Training | Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/image/overview)
 
 Q:: =============================================  
@@ -5893,7 +6066,9 @@ ___
 
 Model_3 Improves accuracy on small, side-view, and blurry faces.
 Changing the recognition model to recognition_02 will improve facial recognition and faceIdTimeToLive is used for the number of seconds that the face  is cached, which has no impact on blurry faces.
+
 [How to specify a detection model - Face - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/how-to/specify-detection-model)
+
 [Detect, analyze, and recognize faces - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/detect-analyze-recognize-faces/)
 
 Q:: =============================================  
@@ -5918,7 +6093,9 @@ ___
 ###### 1. key phrase extraction
 
 Key phrase extraction is used to quickly identify the main concepts in text, whereas the other features do not return key phrases from longer text documents.
+
 [What is key phrase extraction in Azure Cognitive Service for Language? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/key-phrase-extraction/overview)
+
 [Extract insights from text with the Language service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/extract-insights-text-with-text-analytics-service/)
 
 Q:: =============================================  
@@ -5945,6 +6122,7 @@ ___
 ###### 1. the prompt
 
 The prompt is the only required property to be used in the body of the HTTP request when requesting to generate a new image by using the DALL-E 3 Azure OpenAI API. The other properties are used in the HTTP header.
+
 [Azure OpenAI Service REST API reference - Azure OpenAI | Microsoft Learn](https://learn.microsoft.com/azure/ai-services/openai/reference#image-generation)
 
 Q:: =============================================  
@@ -5969,7 +6147,9 @@ ___
 ###### 1. Spatial Analysis
 
 The only visual feature that provides this capability is Spatial Analysis, as OCR, Image Analysis, and face detection are not meant to analyze the presence of people in a video feed.
+
 [What is Computer Vision? - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/computer-vision/overview)
+
 [Analyze video - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/analyze-video/)
 
 Q:: =============================================  
@@ -6019,7 +6199,9 @@ ___
 
 Special characters are not allowed for synonyms.
 Synonyms can be added in any order, and the ordering is not considered in any computational logic. Synonyms can only be added to a project that has at least one question and answer pair.
+
 [Improve the quality of responses with synonyms - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/question-answering/tutorials/adding-synonyms)
+
 [Build a question answering solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-qna-solution-qna-maker/)
 
 Q:: =============================================  
@@ -6046,7 +6228,9 @@ ___
 
 `facetable` is typically used in a presentation of search results that includes a hit count by category.
 `Filterable` is referenced in `$filter` queries, and `key` is a unique identifier for documents within the index.
+
 [Index overview - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/search-what-is-an-index)
+
 [Create an Azure Cognitive Search solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -6073,7 +6257,9 @@ ___
 
 Document cracking, field mapping, skillset execution, and output field mapping are the stages of indexing.
 Creating a data source, creating an index, and creating and running the indexer are the stages to create an indexer. Connecting to an Azure data source, creating an index schema, and running the wizard to create objects and load data are the stages for the Import Data wizard.
+
 [Indexer overview - Azure Cognitive Search | Microsoft Learn](https://learn.microsoft.com/azure/search/search-indexer-overview#stages-of-indexing)
+
 [Create an Azure Cognitive Search solution - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/create-azure-cognitive-search-solution/)
 
 Q:: =============================================  
@@ -6100,7 +6286,9 @@ ___
 ###### 1. separate workflow projects
 
 Orchestration workflow projects do not support the multilingual option, so you need to create a separate workflow project for each language.
+
 [Language support for orchestration workflow - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/language-service/orchestration-workflow/language-support)
+
 [Build a Language Understanding model - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/build-language-understanding-model/)
 
 Q:: =============================================  
@@ -6129,7 +6317,9 @@ ___
 
 Substitution errors are due to the model needing more training on custom product names and people names.
 Overlapping speakers define when there are more deletion errors. People talking in the background are detected when there are more insertion errors.
+
 [Test accuracy of a Custom Speech model - Speech service - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/azure/cognitive-services/speech-service/how-to-custom-speech-evaluate-data?pivots=speech-studio#resolve-errors-and-improve-wer)
+
 [Create speech-enabled apps with the Speech service - Training | Microsoft Learn](https://learn.microsoft.com/training/modules/transcribe-speech-input-text/)
 
 
